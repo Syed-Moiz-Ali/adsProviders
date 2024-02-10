@@ -1,5 +1,4 @@
 {
-  
   "Multi Server": [
     {
       "name": "watch.lonelil",
@@ -2498,54 +2497,54 @@
   ],
   "Download Sites": [
     {
-      "title": "General DDL Sites",
+      "name": "General DDL Sites",
       "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download"
     },
     {
-      "title": "Video Download Tools",
+      "name": "Video Download Tools",
       "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download"
     },
     {
-      "title": "OlaMovies",
+      "name": "OlaMovies",
       "category": "Movies / TV / 4K / 1080p",
       "url": "https://olamovies.autos/",
       "features": ["Telegram"]
     },
     {
-      "title": "Pahe",
+      "name": "Pahe",
       "category": "Movies / TV / Anime / 4K",
       "url": "https://pahe.ph/",
       "features": ["Discord", "Redirect Buttons"]
     },
     {
-      "title": "PSARips",
+      "name": "PSARips",
       "category": "Movies / TV / 4K",
       "url": "https://psa.wf/"
     },
     {
-      "title": "LightDLMovies",
+      "name": "LightDLMovies",
       "category": "Movies / TV / 1080p",
       "url": "https://lightdl.xyz/"
     },
     {
-      "title": "VegaMovies",
+      "name": "VegaMovies",
       "category": "Movies / TV / Anime / 1080p / 4K",
       "url": "https://vegamovies.ngo/",
       "features": ["Telegram"]
     },
     {
-      "title": "MovieParadise",
+      "name": "MovieParadise",
       "category": "Movies / TV / 1080p",
       "url": "https://movieparadise.org/",
       "notes": "Account Required for 1ficher links"
     },
     {
-      "title": "Drama Day",
+      "name": "Drama Day",
       "category": "Asian Drama / 1080p",
       "url": "https://dramaday.me/"
     },
     {
-      "title": "Video Download CSE",
+      "name": "Video Download CSE",
       "url": "https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr",
       "other_cse_links": [
         "https://cse.google.com/cse?cx=89f2dfcea452fc451",
@@ -2553,323 +2552,323 @@
       ]
     },
     {
-      "title": "TvSeriesnMovies",
+      "name": "TvSeriesnMovies",
       "category": "Movies / TV / Anime / 4K / 1080p",
       "url": "https://www.tvseriesnmovies.com/"
     },
     {
-      "title": "DDLBase",
+      "name": "DDLBase",
       "category": "Movies / TV / 4K",
       "url": "https://ddlbase.net/"
     },
     {
-      "title": "KatMovieHD",
+      "name": "KatMovieHD",
       "category": "Movies / TV / Anime / 1080p",
       "url": "https://katmoviehd.ac/",
       "features": ["Telegram"]
     },
     {
-      "title": "RareLust",
+      "name": "RareLust",
       "category": "Rare Movies / NSFW / 1080p",
       "url": "https://rarelust.com/"
     },
     {
-      "title": "My Duck Is Dead",
+      "name": "My Duck Is Dead",
       "category": "Rare Movies / NSFW / 1080p",
       "url": "https://www.myduckisdead.org/"
     },
     {
-      "title": "StagaTV",
+      "name": "StagaTV",
       "category": "Movies / TV / 1080p",
       "url": "https://www.stagatv.com/"
     },
     {
-      "title": "movie-web",
+      "name": "movie-web",
       "category": "Movies / TV / 1080p",
       "url": "https://movie-web.app/",
       "features": ["Discord"]
     },
     {
-      "title": "StarsDDL",
+      "name": "StarsDDL",
       "category": "Movies / TV / 1080p",
       "url": "https://starsddl.me/"
     },
     {
-      "title": "Movies Ni Pipay",
+      "name": "Movies Ni Pipay",
       "category": "Movies / TV / 1080p",
       "url": "https://moviesnipipay.me/"
     },
     {
-      "title": "FilmDuty",
+      "name": "FilmDuty",
       "category": "Movies / TV / Anime / 1080p",
       "url": "https://filmduty.com/"
     },
     {
-      "title": "Downloads-Anymovies",
+      "name": "Downloads-Anymovies",
       "category": "Movies / 1080p",
       "url": "https://www.downloads-anymovies.co/"
     },
     {
-      "title": "Reqzone",
+      "name": "Reqzone",
       "category": "Movies / TV / 1080p",
       "url": "https://reqzone.com/"
     },
     {
-      "title": "RLSXTVT",
+      "name": "RLSXTVT",
       "category": "Movies / TV / 1080p",
       "url": "https://rlsxtvt.icu/"
     },
     {
-      "title": "MegaDDL",
+      "name": "MegaDDL",
       "category": "Movies / TV / 1080p",
       "notes": "Some Paywalled",
       "url": "https://megaddl.co/"
     },
     {
-      "title": "UHDMovies",
+      "name": "UHDMovies",
       "category": "Movies / 4K",
       "url": "https://uhdmovies.zip/"
     },
     {
-      "title": "Best-Movies",
+      "name": "Best-Movies",
       "category": "Movies / TV / 4K",
       "url": "https://best-movies.info/"
     },
     {
-      "title": "Onkyo4k",
+      "name": "Onkyo4k",
       "category": "Movies / TV / 4K",
       "url": "https://onkyo4k.com/"
     },
     {
-      "title": "ShareSpark",
+      "name": "ShareSpark",
       "category": "Movies / TV / 1080p",
       "url": "https://ww1.sharespark.cfd/"
     },
     {
-      "title": "Full4Movies",
+      "name": "Full4Movies",
       "category": "Movies / TV / 1080p",
       "url": "https://www.full4movies.cheap/",
       "features": ["Telegram"]
     },
     {
-      "title": "Free Movies",
+      "name": "Free Movies",
       "category": "Movies / TV / 1080p",
       "url": "https://free-movies.to/"
     },
     {
-      "title": "SomosMovies",
+      "name": "SomosMovies",
       "category": "Movies / 1080p",
       "url": "https://somosmovies.com/"
     },
     {
-      "title": "MovieSeriesTV",
+      "name": "MovieSeriesTV",
       "category": "Movies / TV / 1080p",
       "url": "https://www.movieseriestv.net/"
     },
     {
-      "title": "SeriesVault",
+      "name": "SeriesVault",
       "category": "TV / Anime / 1080p",
       "url": "https://seriesvault.tk/"
     },
     {
-      "title": "MoviezAddiction",
+      "name": "MoviezAddiction",
       "category": "Movies / TV / 4K",
       "url": "https://ww3.moviezaddiction.click/",
       "features": ["Telegram"]
     },
     {
-      "title": "FilmFans",
+      "name": "FilmFans",
       "category": "Movies / 4K",
       "url": "https://filmfans.org/"
     },
     {
-      "title": "ShowBox",
+      "name": "ShowBox",
       "category": "Movies / TV / 4K",
       "url": "https://www.showbox.media/",
       "how_to": "https://rentry.co/febbox"
     },
     {
-      "title": "WorldFree4u",
+      "name": "WorldFree4u",
       "category": "Movies / 1080p",
       "url": "https://worldfree4u.dad/"
     },
     {
-      "title": "SSR Movies",
+      "name": "SSR Movies",
       "category": "Movies / TV / 1080p",
       "url": "https://www.ssrmovies.hair/"
     },
     {
-      "title": "Best-MovieZ",
+      "name": "Best-MovieZ",
       "category": "Movies / TV / 1080p",
       "url": "https://www.best-moviez.ws/"
     },
     {
-      "title": "SeriezLoaded NG",
+      "name": "SeriezLoaded NG",
       "category": "Movies / TV / 1080p",
       "url": "https://www.seriezloaded.com.ng/"
     },
     {
-      "title": "MoviesMod",
+      "name": "MoviesMod",
       "category": "Movies / TV / 1080p",
       "url": "https://moviesmod.dev/movies/hollywood/english-movies/",
       "features": ["Bypass"]
     },
     {
-      "title": "ShareMania",
+      "name": "ShareMania",
       "category": "Movies / TV / 4K",
       "url": "https://sharemania.us/"
     },
     {
-      "title": "Google Drive Movies",
+      "name": "Google Drive Movies",
       "url": "https://databasegdriveplayer.co/movie.php"
     },
     {
-      "title": "Google Drive TV",
+      "name": "Google Drive TV",
       "url": "https://databasegdriveplayer.co/series.php"
     },
     {
-      "title": "Google Drive Anime",
+      "name": "Google Drive Anime",
       "url": "https://databasegdriveplayer.co/anime.php"
     },
     {
-      "title": "Google Drive KDrama",
+      "name": "Google Drive KDrama",
       "url": "https://databasegdriveplayer.co/drama.php"
     },
     {
-      "title": "ShareBB",
+      "name": "ShareBB",
       "category": "Movies / TV / 1080p",
       "url": "https://sharebb.me/"
     },
     {
-      "title": "TwitchDL",
+      "name": "TwitchDL",
       "category": "Movies / TV / Anime / 1080p",
       "url": "https://dl2.twitchdl.us/"
     },
     {
-      "title": "Privatemoviez",
+      "name": "Privatemoviez",
       "category": "Movies / TV / 1080p",
       "url": "https://privatemoviez.quest/",
       "features": ["Telegram"]
     },
     {
-      "title": "FilmGo",
+      "name": "FilmGo",
       "category": "Movies / TV / 720p",
       "url": "https://www.filmgo.live/"
     },
     {
-      "title": "FZMovies",
+      "name": "FZMovies",
       "category": "Movies / 720p",
       "url": "https://fzmovies.host/"
     },
     {
-      "title": "YourSerie",
+      "name": "YourSerie",
       "category": "Movies / TV / 720p",
       "url": "https://www.yourserie.com/"
     },
     {
-      "title": "SeriesWay",
+      "name": "SeriesWay",
       "category": "Movies / TV / 720p",
       "url": "https://seriesway.com/"
     },
     {
-      "title": "TV Shows",
+      "name": "TV Shows",
       "category": "TV / 720p",
       "url": "https://tvshows.me/"
     },
     {
-      "title": "TVSBoy",
+      "name": "TVSBoy",
       "category": "TV / 720p",
       "url": "https://tvsboy.com/"
     },
     {
-      "title": "nKiri",
+      "name": "nKiri",
       "category": "Movies / TV / 720p",
       "url": "https://nkiri.com/"
     },
     {
-      "title": "TodayTVSeries",
+      "name": "TodayTVSeries",
       "category": "TV / 720p",
       "url": "https://www.todaytvseries2.com/"
     },
     {
-      "title": "TvShows4Mobile",
+      "name": "TvShows4Mobile",
       "category": "TV / Anime / 480p",
       "url": "https://tvshows4mobile.com/",
       "features": ["Telegram"]
     },
     {
-      "title": "NetNaija",
+      "name": "NetNaija",
       "category": "Movies / 480p",
       "url": "https://netnaija.xyz/"
     },
     {
-      "title": "FZMoviesz",
+      "name": "FZMoviesz",
       "category": "Movies / TV / 480p",
       "url": "https://fzmoviesz.com/"
     },
     {
-      "title": "weeFilm",
+      "name": "weeFilm",
       "category": "Movies / TV / Anime / 480p",
       "url": "https://www.weefilm.live/",
       "features": ["Telegram"]
     },
     {
-      "title": "Naijavault",
+      "name": "Naijavault",
       "category": "Movies / TV / 480p",
       "url": "https://www.naijavault.com/"
     },
     {
-      "title": "KimoiTV",
+      "name": "KimoiTV",
       "category": "Movies / TV / Anime / 360p",
       "url": "https://www.kimoitv.com/"
     },
     {
-      "title": "Cartoons Raw",
+      "name": "Cartoons Raw",
       "category": "Cartoons",
       "url": "https://sites.google.com/view/cartoonraws-disney/home"
     },
     {
-      "title": "KMDL",
+      "name": "KMDL",
       "category": "Asian Drama / 1080p",
       "url": "https://rentry.co/FMHYBase64#kmdl"
     },
     {
-      "title": "Sinflix",
+      "name": "Sinflix",
       "category": "Asian Drama / 1080p",
       "url": "https://rentry.co/FMHYBase64#sinflix"
     },
     {
-      "title": "CondensedAudioCatalog",
+      "name": "CondensedAudioCatalog",
       "category": "Asian Drama / 1080p",
       "url": "https://condensedaudiocatalog.com/"
     },
     {
-      "title": "DoraMax264",
+      "name": "DoraMax264",
       "category": "Asian Drama / 480p",
       "url": "https://doramax264.com/"
     },
     {
-      "title": "Toku.fun",
+      "name": "Toku.fun",
       "category": "Japanese Superhero Movies / 360p",
       "url": "https://toku.fun/"
     },
    
     {
-      "title": "IRC Movie Channels",
+      "name": "IRC Movie Channels",
       "url": "https://pastebin.com/2AeYizZK"
     },
     {
-      "title": "mov-cli",
+      "name": "mov-cli",
       "category": "Streaming / Downloading CLIs",
       "url": "https://github.com/mov-cli/mov-cli"
     },
     {
-      "title": "Movies-and-Series-Scraper",
+      "name": "Movies-and-Series-Scraper",
       "category": "Streaming / Downloading CLIs",
       "url": "https://github.com/yousefkotp/Movies-and-Series-Scraper"
     },
     {
-      "title": "IMDb-Scout-Mod",
+      "name": "IMDb-Scout-Mod",
       "category": "Add Download Site Results to IMDb",
       "url": "https://github.com/Purfview/IMDb-Scout-Mod"
     }
@@ -3249,4 +3248,3 @@
   
   
 }
-
