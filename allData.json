@@ -1,0 +1,3250 @@
+{
+  "Multi Server": [
+    {
+      "name": "watch.lonelil",
+      "url": "https://watch.lonelil.com/",
+      "category": "Movies / TV / Anime / 4K / 1080p",
+      "features": ["Proxy Fix (Important)", "Discord"]
+    },
+    {
+      "name": "movie-web",
+      "url": "https://movie-web.app/",
+      "category": "Movies / TV / 4K / 1080p",
+      "features": ["Proxy Fix (Important)", "Discord"]
+    },
+    {
+      "name": "Braflix",
+      "url": "https://www.braflix.app/",
+      "category": "Movies / TV / Anime / 4K / 1080p",
+      "features": ["Discord"]
+    },
+    {
+      "name": "FMovies",
+      "url": "https://fmoviesz.to/",
+      "category": "Movies / TV / Anime / 1080p",
+      "features": ["Mirrors"]
+    },
+    {
+      "name": "FlixHQ",
+      "url": "https://flixhq.click/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "SusFlix",
+      "url": "https://susflix.tv/",
+      "category": "Movies / TV / Anime / 4K / 1080p",
+      "features": ["Discord"]
+    },
+    {
+      "name": "Streamflix",
+      "url": "https://watch.streamflix.one/",
+      "category": "Movies / TV / Anime / 1080p",
+      "features": ["Discord"]
+    },
+    {
+      "name": "KipFlix",
+      "url": "https://kipflix.vercel.app/",
+      "category": "Movies / TV / Anime / 1080p",
+      "features": ["Discord"]
+    },
+    {
+      "name": "SFlix",
+      "url": "https://sflix.to/",
+      "category": "Movies / TV / Anime / 1080p",
+      "features": ["Mirrors"]
+    },
+    {
+      "name": "UpMovies",
+      "url": "https://upmovies.to/",
+      "category": "Movies / TV / Anime / 1080p",
+      "notes": "Use Adblock"
+    },
+    {
+      "name": "The Movie Archive",
+      "url": "https://themoviearchive.site/",
+      "category": "Movies / TV / 4K / 1080p"
+    },
+    {
+      "name": "PrimeFlix",
+      "url": "https://primeflix-web.vercel.app/",
+      "category": "Movies / TV / Anime / 1080p",
+      "features": ["Discord"]
+    },
+    {
+      "name": "PrimeWire",
+      "url": "https://www.primewire.tf/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "Streaming CSE",
+      "url": "https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0",
+      "category": "Multi-Site Search"
+    },
+    {
+      "name": "NetFilm",
+      "url": "https://netfilm.app/",
+      "category": "Movies / TV / Anime / 1080p",
+      "features": ["Discord"]
+    },
+    {
+      "name": "Ask4Movies",
+      "url": "https://ask4movie.li/",
+      "category": "Movies / TV / 1080p",
+      "notes": "Use Adblock"
+    },
+    {
+      "name": "SmashyStream",
+      "url": "https://embed.smashystream.com/",
+      "category": "Movies / TV / Anime / 1080p",
+      "features": ["Telegram"]
+    },
+    {
+      "name": "Seez",
+      "url": "https://seez.su/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "cinehub.wtf",
+      "url": "https://cinehub.wtf",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "Cinetide",
+      "url": "https://cinetide.glitch.me/browse.html",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "M4uFree",
+      "url": "https://ww2.m4ufree.com/",
+      "category": "Movies / TV / Anime / 1080p",
+      "features": ["Mirrors"]
+    },
+    {
+      "name": "AnyMovie",
+      "url": "https://anymovie.cc/",
+      "category": "Movies / TV / 4K / 1080p"
+    },
+    {
+      "name": "MovieScene",
+      "url": "https://moviescene.cc/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "Filmxy",
+      "url": "https://www.filmxy.vip/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "Movies Ni Pipay",
+      "url": "https://moviesnipipay.me/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "WatchMovie",
+      "url": "https://watchmovie.ac/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "Levidia",
+      "url": "https://www.levidia.ch/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "EuroPixHD",
+      "url": "https://europixhd.pro/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "xpWatch",
+      "url": "https://xpwatch-v2.pages.dev/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "EMovies",
+      "url": "https://emovies.si/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "ISDB",
+      "url": "https://isdb.pl/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "Goojara",
+      "url": "https://www.goojara.to/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "Kinos",
+      "url": "https://www.kinos.to/",
+      "category": "Movies / TV / 1080p",
+      "notes": "Switch Language (in options)"
+    },
+    {
+      "name": "Downloads-Anymovies",
+      "url": "https://www.downloads-anymovies.co/",
+      "category": "Movies / 1080p"
+    },
+    {
+      "name": "YMovies",
+      "url": "https://ymovies.vip/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "YesHD",
+      "url": "https://yeshd.net/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "MoviesXK",
+      "url": "https://moviexk.biz/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "123MoviesFree",
+      "url": "https://ww2.123moviesfree.net/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "NetMovies",
+      "url": "https://netmovies.to/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "MovGoTV",
+      "url": "https://movgotv.net/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "TVids",
+      "url": "https://www.tvids.net/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "Lovemovie",
+      "url": "https://lovemovie.org/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "Yesmovies.pm",
+      "url": "https://yesmovies.pm/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "OnionPlay",
+      "url": "https://onionplay.se/",
+      "category": "Movies / TV / 1080p",
+      "features": ["Mirrors"]
+    },
+    {
+      "name": "MKVKing",
+      "url": "https://193.233.203.165/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "HollyMovieHD",
+      "url": "https://hollymoviehd.cc/",
+      "category": "Movies / TV / Anime / 720p"
+    },
+    {
+      "name": "NovaMovie",
+      "url": "https://novamovie.net/",
+      "category": "Movies / TV / Anime / 720p"
+    },
+    {
+      "name": "Supernova",
+      "url": "https://supernova.to/",
+      "category": "Movies / TV / Anime / 720p"
+    },
+    {
+      "name": "MoviesLair",
+      "url": "https://movielair.cc/",
+      "category": "Movies / TV / 720p"
+    },
+    {
+      "name": "WatchSeries",
+      "url": "https://watchseries.cyou/",
+      "category": "Movies / TV / 720p"
+    },
+    {
+      "name": "uFlix",
+      "url": "https://uflix.cc/",
+      "category": "Movies / TV / Anime / 720p"
+    },
+    {
+      "name": "SlideMovies",
+      "url": "https://slidemovies.org/",
+      "category": "Movies / TV / Anime / 720p"
+    },
+    {
+      "name": "MovieUniverse",
+      "url": "https://movieuniverse.se/",
+      "category": "Movies / TV / Anime / 720p"
+    },
+    {
+      "name": "ConTV",
+      "url": "https://www.contv.com/",
+      "category": "Movies / 720p"
+    },
+    {
+      "name": "Afdah",
+      "url": "https://afdah2.com/",
+      "category": "Movies / 720p"
+    },
+    {
+      "name": "FFilmClub",
+      "url": "https://filmsclub.org/",
+      "category": "Movies / TV / 720p"
+    },
+    {
+      "name": "Flixtor",
+      "url": "https://flixtor.to/",
+      "category": "Movies / TV / 720p",
+      "notes": "Movies Older Than 6 Months For Premium Only"
+    },
+    {
+      "name": "tvembed.cc",
+      "url": "https://tvembed.cc/",
+      "category": "Movies / TV / Anime / API / 1080p"
+    },
+    {
+      "name": "GoMo",
+      "url": "https://gomo.to/",
+      "category": "Movies / TV / Anime / API / 1080p"
+    },
+    {
+      "name": "SuperEmbed",
+      "url": "https://www.superembed.stream/",
+      "category": "Movies / TV / API / 1080p"
+    },
+    {
+      "name": "VidSrc",
+      "url": "https://vidsrc.to/",
+      "category": "Movies / TV / Anime / API / 1080p",
+      "features": ["Resolver"]
+    },
+    {
+      "name": "BlackVid",
+      "url": "https://blackvid.space/",
+      "category": "Movies / TV / API"
+    },
+    {
+      "name": "VidDroid Desktop",
+      "url": "https://github.com/callisto-jovy/viddroid_desktop",
+      "category": "Streaming App"
+    },
+    {
+      "name": "TG-FileStreamBot",
+      "url": "https://github.com/EverythingSuckz/TG-FileStreamBot",
+      "category": "Telegram File Streaming"
+    },
+    {
+      "name": "IMDb Scout",
+      "url": "https://greasyfork.org/en/scripts/407284-imdb-scout-mod",
+      "category": "Add Stream Search Buttons to IMDb"
+    }
+  ],
+  "Single Server": [
+    {
+      "name": "EE3",
+      "url": "https://ee3.me/",
+      "category": "Movies / 1080p",
+      "invite_code": "fmhy"
+    },
+    {
+      "name": "RIPS",
+      "url": "https://rips.cc/",
+      "category": "Movies / 1080p"
+    },
+    {
+      "name": "Nites",
+      "url": "https://ww4.nites.is/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "PressPlay",
+      "url": "https://www.pressplay.top/",
+      "category": "Movies / TV / 1080p",
+      "features": ["Discord"]
+    },
+    {
+      "name": "LookMovie",
+      "url": "https://lookmovie2.to/",
+      "category": "Movies / TV / 720p",
+      "features": ["Mirrors"]
+    },
+    {
+      "name": "YesMovies",
+      "url": "https://yesmovies.ag/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "YesMovies2",
+      "url": "https://ww4.solarmovie.to/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "YesMovies3",
+      "url": "https://ww5.0123movie.net/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "YesMovies4",
+      "url": "https://ww1.putlocker.vip/",
+      "category": "Movies / TV / Anime / 1080p"
+    },
+    {
+      "name": "FshareTV",
+      "url": "https://fsharetv.co/",
+      "category": "Movies / 1080p"
+    },
+    {
+      "name": "FshareTV2",
+      "url": "https://fsharetv.io/",
+      "category": "Movies / 1080p"
+    },
+    {
+      "name": "RidoMovies",
+      "url": "https://ridomovies.tv/",
+      "category": "Movies / 1080p"
+    },
+    {
+      "name": "Ling.online",
+      "url": "https://ling-online.net/en/videos/films/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "UniqueStream",
+      "url": "https://uniquestream.net/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "English Movies",
+      "url": "https://m.vk.com/english_movies",
+      "category": "Movies / 1080p"
+    },
+    {
+      "name": "StreamLord",
+      "url": "http://www.streamlord.com/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "VidCloud",
+      "url": "https://vidcloud1.com/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "MoviehdKH",
+      "url": "https://www.moviehdkh.com/",
+      "category": "Movies / 1080p"
+    },
+    {
+      "name": "Show Flix",
+      "url": "https://showflix.in/lan/movie/English",
+      "category": "Movies / TV / 1080p",
+      "notes": "Switch Audio Source in Settings"
+    },
+    {
+      "name": "GotyTV",
+      "url": "https://gotytv.com/",
+      "category": "Movies / TV / 1080p",
+      "notes": "Requires Signup"
+    },
+    {
+      "name": "123Moviess",
+      "url": "https://123moviess.net/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "PopcornFlix",
+      "url": "https://www.popcornflix.com/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "Crackle",
+      "url": "https://www.crackle.com/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "Tubi",
+      "url": "https://tubitv.com",
+      "category": "Movies / TV / 720p",
+      "notes": "Use Adblock / US Only",
+      "features": ["Downloader"]
+    },
+    {
+      "name": "Freevee",
+      "url": "https://www.amazon.com/gp/video/storefront/ref=atv_hm_hom_c_9zZ8D2_1_3?contentType=home&contentId=freetv",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "Roku",
+      "url": "https://therokuchannel.roku.com/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "Vudu",
+      "url": "https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "ShoutFactoryTV",
+      "url": "https://www.shoutfactorytv.com/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "Kanopy",
+      "url": "https://kanopy.com/",
+      "category": "Movies / TV / 1080p",
+      "notes": "Library Card Required"
+    },
+    {
+      "name": "Hoopla",
+      "url": "https://www.hoopladigital.com/",
+      "category": "Movies / TV / 1080p",
+      "notes": "Library Card Required"
+    },
+    {
+      "name": "7+",
+      "url": "https://7plus.com.au/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "Playary",
+      "url": "https://www.playary.com/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "Fawesome",
+      "url": "https://fawesome.tv/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "LokLok",
+      "url": "https://loklok.com/",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "ARTE",
+      "url": "https://www.arte.tv/en",
+      "category": "Movies / TV / 1080p"
+    },
+    {
+      "name": "BBC iPlayer",
+      "url": "https://www.bbc.co.uk/iplayer",
+      "category": "Movies / TV / 1080p",
+      "notes": "UK VPN required",
+      "features": ["Downloader"]
+    },
+    {
+      "name": "Mov.onl",
+      "url": "https://www.mov.onl/",
+      "category": "Movies / TV / 720p"
+    },
+    {
+      "name": "SpaceMov",
+      "url": "https://spacemov.site/",
+      "category": "Movies / TV / 720p"
+    },
+    {
+      "name": "Pluto",
+      "url": "https://pluto.tv/",
+      "category": "Movies / TV / 720p"
+    },
+    {
+      "name": "Vumoo",
+      "url": "https://vumoo.to/",
+      "category": "Movies / TV / 720p"
+    },
+    {
+      "name": "9PM",
+      "url": "https://9pm.to/",
+      "category": "Movies / TV / 720p"
+    },
+    {
+      "name": "Vidlink",
+      "url": "https://vidlink.org/",
+      "category": "Movies / 720p"
+    },
+    {
+      "name": "VidStore",
+      "url": "https://stream.vidzstore.com/",
+      "category": "Movies / 720p"
+    },
+    {
+      "name": "MovieXFilm",
+      "url": "https://moviexfilm.com/",
+      "category": "Movies / TV / 720p"
+    },
+    {
+      "name": "VHMovies",
+      "url": "https://vhmovies.to/",
+      "category": "Movies / TV / Anime / 720p"
+    },
+    {
+      "name": "Plex",
+      "url": "https://watch.plex.tv/",
+      "category": "Movies / TV / 720p"
+    },
+    {
+      "name": "FreeTubeSpot",
+      "url": "https://www.freetubespot.com/",
+      "category": "Movies / 480p"
+    },
+    {
+      "name": "MP4Mania",
+      "url": "https://mp4mania1.net/",
+      "category": "Movies / 360p",
+      "notes": "How to Use"
+    },
+    {
+      "name": "JustWatch",
+      "url": "https://www.justwatch.com/",
+      "category": "Search Legal Streaming Hosts"
+    },
+    {
+      "name": "Manually Scrape Sites",
+      "url": "https://rentry.co/uxw6u",
+      "category": "Manual"
+    }
+  ],
+  "Video Hosts": [
+    {
+      "name": "OK",
+      "url": "https://ok.ru/video"
+    },
+    {
+      "name": "VK",
+      "url": "https://vk.com/video"
+    },
+
+    {
+      "name": "Archive",
+      "url": "https://archive.org/",
+      "category": "Movies / TV"
+    },
+    {
+      "name": "Dailymotion",
+      "url": "https://www.dailymotion.com/us"
+    },
+    {
+      "name": "BiliBili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "name": "BiliBili2",
+      "url": "https://www.bilibili.tv/"
+    },
+    {
+      "name": "Niconico",
+      "url": "https://www.nicovideo.jp/"
+    },
+    {
+      "name": "Vimeo",
+      "url": "https://vimeo.com/"
+    },
+    {
+      "name": "Veoh",
+      "url": "https://www.veoh.com/"
+    },
+    {
+      "name": "Video Search CSE",
+      "url": "https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0"
+    },
+    {
+      "name": "Moviez.space",
+      "url": "https://moviez.space/"
+    },
+    {
+      "name": "NoodleMagazine",
+      "url": "https://noodlemagazine.com"
+    },
+    {
+      "name": "NoodleMagazine2",
+      "url": "https://mat6tube.com/"
+    },
+    {
+      "name": "NoodleMagazine3",
+      "url": "https://tyler-brown.com/"
+    },
+    {
+      "name": "NoodleMagazine4",
+      "url": "https://waterdamagesandiego.org/"
+    },
+    {
+      "name": "NoodleMagazine5",
+      "url": "https://exporntoons.net/recent"
+    },
+    {
+      "name": "NoodleMagazine6",
+      "url": "https://actionviewphotography.com/"
+    },
+
+    {
+      "name": "PeerTube",
+      "url": "https://joinpeertube.org/"
+    },
+    {
+      "name": "PeerTube2",
+      "url": "https://search.joinpeertube.org/"
+    },
+    {
+      "name": "PeerTube Instances",
+      "url": "https://instances.joinpeertube.org/instances"
+    },
+    {
+      "name": "my.mail.ru",
+      "url": "https://my.mail.ru/video"
+    },
+    {
+      "name": "Facebook Videos",
+      "url": "https://www.facebook.com/watch/search/?query=fmhy"
+    },
+    {
+      "name": "Ronemo",
+      "url": "https://ronemo.com/"
+    },
+    {
+      "name": "rutube",
+      "url": "https://rutube.ru"
+    },
+    {
+      "name": "cda.pl",
+      "url": "https://www.cda.pl/"
+    },
+    {
+      "name": "tilvids",
+      "url": "https://tilvids.com/"
+    },
+    {
+      "name": "bitchute",
+      "url": "https://www.bitchute.com/"
+    },
+    {
+      "name": "V-S Mobi",
+      "url": "https://v-s.mobi/"
+    },
+    {
+      "name": "Videa",
+      "url": "https://videa.hu/"
+    },
+    {
+      "name": "Aparat",
+      "url": "https://www.aparat.com/"
+    },
+    {
+      "name": "NewTube",
+      "url": "https://newtube.app/"
+    },
+    {
+      "name": "tudou",
+      "url": "https://www.tudou.com/"
+    },
+    {
+      "name": "BitView",
+      "url": "https://www.bitview.net/"
+    },
+    {
+      "name": "Vidlii",
+      "url": "https://www.vidlii.com/"
+    },
+    {
+      "name": "Naver",
+      "url": "https://tv.naver.com/"
+    },
+    {
+      "name": "ultimedia",
+      "url": "https://www.ultimedia.com/"
+    },
+    {
+      "name": "odysee",
+      "url": "https://odysee.com/"
+    },
+    {
+      "name": "Playeur",
+      "url": "https://playeur.com/"
+    },
+    {
+      "name": "Rumble",
+      "url": "https://rumble.com/"
+    },
+    {
+      "name": "tubidy",
+      "url": "https://tubidy.net/"
+    },
+    {
+      "name": "Myspace Videos",
+      "url": "https://myspace.com/search/videos"
+    },
+    {
+      "name": "Google Videos",
+      "url": "https://www.google.com/?tbm=vid"
+    },
+    {
+      "name": "Yandex Videos",
+      "url": "https://yandex.ru/video"
+    },
+    {
+      "name": "MotionBox",
+      "url": "https://omega.gg/MotionBox/",
+      "notes": "Online Video Aggregation App"
+    }
+  ],
+  "Specialty Streaming": [
+    {
+      "name": "RareFilmm",
+      "url": "https://rarefilmm.com/",
+      "category": "Rare Movies"
+    },
+    {
+      "name": "JP-Films",
+      "url": "https://jp-films.com/",
+      "category": "Japanese Movies / TV",
+      "notes": "Select \"Watch Free\""
+    },
+    {
+      "name": "GizmoPlex",
+      "url": "https://www.gizmoplex.com/mst3k",
+      "category": "MST3K Movies"
+    },
+    {
+      "name": "RiffTrax Twitch",
+      "url": "https://www.twitch.tv/rifftrax"
+    },
+    {
+      "name": "RiffTrax Pluto",
+      "url": "https://pluto.tv/live-tv/rifftrax"
+    },
+    {
+      "name": "Ubu",
+      "url": "https://ubu.com/film/",
+      "category": "Short Films / Avant-Garde"
+    },
+    {
+      "name": "Classic Cinema Online",
+      "url": "https://classiccinemaonline.com/"
+    },
+    {
+      "name": "ClassixApp",
+      "url": "https://www.classixapp.com/"
+    },
+    {
+      "name": "BnWMovies",
+      "url": "https://bnwmovies.com/"
+    },
+    {
+      "name": "The Classic Movies",
+      "url": "https://www.the-classic-movies.com/"
+    },
+    {
+      "name": "RetroFlix",
+      "url": "https://retroflix.org/"
+    },
+    {
+      "name": "Dumb Classic Movies",
+      "url": "https://www.dumb.com/movies/"
+    },
+    {
+      "name": "TheFilmDetective",
+      "url": "https://www.thefilmdetective.com/",
+      "category": "Classic Films / TV"
+    },
+    {
+      "name": "RetroStrange",
+      "url": "https://live.retrostrange.com/",
+      "category": "Live Retro Streams"
+    },
+    {
+      "name": "Silent Hall of Fame",
+      "url": "https://silent-hall-of-fame.org/",
+      "category": "Silent Films"
+    },
+    {
+      "name": "Wu Tang Collection",
+      "url": "https://www.thewutangcollection.com/",
+      "category": "Martial Arts Films"
+    },
+    {
+      "name": "tokuzilla",
+      "url": "https://tokuzilla.net/",
+      "category": "Tokuzilla Movies / Shows"
+    },
+    {
+      "name": "LIMA",
+      "url": "https://www.li-ma.nl/",
+      "category": "Short / Experimental Films"
+    },
+    {
+      "name": "LightCone",
+      "url": "https://lightcone.org/en",
+      "category": "Short / Experimental Films"
+    },
+    {
+      "name": "Rohesia Hamilton Metcalfe",
+      "url": "https://www.panix.com/%7Ehamiltro/links/",
+      "category": "Experimental Films"
+    },
+    {
+      "name": "Zero1Cine",
+      "url": "https://zero1cine.com/",
+      "category": "AI Generated Films"
+    },
+    {
+      "name": "The Library of Congress",
+      "url": "https://www.loc.gov/film-and-videos/",
+      "category": "Movies / Short Films"
+    },
+    {
+      "name": "USNationalArchives",
+      "url": "https://www.youtube.com/@USNationalArchives",
+      "category": "Movies / Short Films"
+    },
+    {
+      "name": "Viddsee",
+      "url": "https://www.viddsee.com/"
+    },
+    {
+      "name": "MAFF",
+      "url": "https://www.maff.tv/"
+    },
+    {
+      "name": "Short of the Week",
+      "url": "https://www.shortoftheweek.com/"
+    },
+    {
+      "name": "Argo",
+      "url": "https://web.watchargo.com/"
+    },
+    {
+      "name": "Shortly",
+      "url": "https://watch.shortly.film/"
+    },
+    {
+      "name": "Audpop",
+      "url": "https://audpop.com/"
+    },
+    {
+      "name": "HuntleyArchives",
+      "url": "https://www.huntleyarchives.com/",
+      "category": "Rare / Forgotten Short Films"
+    },
+    {
+      "name": "0xDB",
+      "url": "https://0xdb.org/",
+      "category": "Rare Movies",
+      "notes": "How-to: [Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies#wiki_method_2_-_streaming)"
+    },
+    {
+      "name": "FootageFarm",
+      "url": "https://footagefarm.com/",
+      "category": "Public Domain Films"
+    },
+    {
+      "name": "The Travel Film Archive",
+      "url": "https://travelfilmarchive.com/",
+      "category": "Public Domain Stock Footage"
+    },
+    {
+      "name": "commons.wikimedia",
+      "url": "https://commons.wikimedia.org/wiki/Category:Videos",
+      "category": "Wiki Commons Video Files"
+    },
+    {
+      "name": "Einthusan",
+      "url": "https://einthusan.tv/",
+      "category": "South Asian Film Archive"
+    },
+    {
+      "name": "IndianCine",
+      "url": "https://indiancine.ma/",
+      "category": "Indian Film Archive"
+    },
+    {
+      "name": "National Film Archive of Japan",
+      "url": "https://meiji.filmarchives.jp/",
+      "category": "Japanese Film Archive"
+    },
+    {
+      "name": "TexasArchive",
+      "url": "https://texasarchive.org/",
+      "category": "Texas Film Archive"
+    },
+    {
+      "name": "Chicago Film Archives",
+      "url": "https://www.chicagofilmarchives.org/",
+      "category": "Chicago Film Archive"
+    },
+    {
+      "name": "Eastern European Movies",
+      "url": "https://easterneuropeanmovies.com/",
+      "category": "Eastern European Film Archive"
+    },
+    {
+      "name": "BFIPlayer",
+      "url": "https://player.bfi.org.uk/free",
+      "category": "British Film Archive",
+      "notes": "UK VPN Required"
+    },
+    {
+      "name": "BFI National Archive",
+      "url": "https://www.bfi.org.uk/bfi-national-archive",
+      "category": "British Film Archive",
+      "notes": "UK VPN Required"
+    },
+    {
+      "name": "British Pathé",
+      "url": "https://www.britishpathe.com/",
+      "category": "British Video Archive"
+    },
+    {
+      "name": "yfanefa",
+      "url": "https://www.yfanefa.com/",
+      "category": "Yorkshire Film Archive"
+    },
+    {
+      "name": "nfb.ca",
+      "url": "https://www.nfb.ca/",
+      "category": "Canadian Film Archive"
+    },
+    {
+      "name": "NFSA",
+      "url": "https://www.nfsa.gov.au/",
+      "category": "Australian Film Archive"
+    },
+    {
+      "name": "NGA Taonga",
+      "url": "https://www.ngataonga.org.nz/search-use-collection/search/",
+      "category": "New Zealand Video Archive"
+    },
+    {
+      "name": "NZOnScreen",
+      "url": "https://www.nzonscreen.com/",
+      "category": "New Zealand Video Archive"
+    },
+    {
+      "name": "NLS",
+      "url": "https://www.nls.uk/",
+      "category": "Scottish Film Archive"
+    },
+    {
+      "name": "NLS2",
+      "url": "https://movingimage.nls.uk/",
+      "category": "Scottish Film Archive"
+    },
+    {
+      "name": "Northern Ireland Screen",
+      "url": "https://digitalfilmarchive.net/",
+      "category": "Irish Film Archive"
+    },
+    {
+      "name": "Cinematheque",
+      "url": "https://www.cinematheque.fr/henri/english/",
+      "category": "Rare French Film Archive"
+    },
+    {
+      "name": "Stiftung imai",
+      "url": "https://www.stiftung-imai.de/",
+      "category": "German Video Archives"
+    },
+    {
+      "name": "Film Portal",
+      "url": "https://www.filmportal.de/en/videos",
+      "category": "German Video Archives"
+    },
+    {
+      "name": "35mm",
+      "url": "https://35mm.online/en",
+      "category": "Polish Film Archive"
+    },
+    {
+      "name": "FilmPolski",
+      "url": "https://filmpolski.pl/fp/index.php",
+      "category": "Polish Video Archive"
+    },
+    {
+      "name": "Danish Silent Film",
+      "url": "https://www.stumfilm.dk/en/stumfilm",
+      "category": "Silent Danish Film Archive"
+    },
+    {
+      "name": "Historic Films",
+      "url": "https://www.historicfilms.com/",
+      "category": "Historic Footage / Films"
+    },
+    {
+      "name": "National Film Preservation Foundation",
+      "url": "https://www.filmpreservation.org/",
+      "category": "Historic Footage / Films"
+    },
+    {
+      "name": "Imperial War Museums",
+      "url": "https://www.iwm.org.uk/",
+      "category": "Historic War Footage"
+    },
+    {
+      "name": "Prelinger Archives",
+      "url": "https://www.panix.com/%7Efootage/",
+      "category": "Ephemeral Films",
+      "notes": "Archive: [archive.org](https://archive.org/details/prelinger)"
+    },
+    {
+      "name": "/r/MusicalBootlegs",
+      "url": "https://www.reddit.com/r/MusicalBootlegs"
+    },
+    {
+      "name": "\"Slime Tutorials\"",
+      "url": "https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc"
+    },
+    {
+      "name": "GlobalShakespeares",
+      "url": "https://globalshakespeares.mit.edu/",
+      "category": "Shakespeare Performance Recordings"
+    },
+    {
+      "name": "SidePlusLeaks",
+      "url": "https://sideplusleaks.com/"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/sideplusleaks"
+    },
+    {
+      "name": "Titan The Pirate",
+      "url": "https://titan-the-pirate.com/"
+    },
+    {
+      "name": "Unus Annus",
+      "url": "https://archive.org/details/unus-annus",
+      "category": "Unus Annus Archive"
+    },
+    {
+      "name": "Daily Commercials",
+      "url": "https://dailycommercials.com/",
+      "category": "Commercial Archive"
+    },
+    {
+      "name": "Yuzu4K Japanese Commercials",
+      "url": "https://archive.org/details/jpcm_yuzu4k",
+      "category": "Japanese Commercial Archive"
+    },
+
+    {
+      "name": "ListenToAMovie",
+      "url": "https://listentoamovie.com/",
+      "category": "Listen to Movies"
+    },
+    {
+      "name": "Audiovault",
+      "url": "https://audiovault.net/",
+      "category": "Descriptive Audio for Blind Users"
+    }
+  ],
+  "TV Streaming": [
+    {
+      "name": "CouchTuner",
+      "url": "https://www.couchtuner.show/",
+      "category": "TV / Anime",
+      "resolution": "720p"
+    },
+    {
+      "name": "Best Series",
+      "url": "https://bstsrs.one/",
+      "category": "TV / Anime",
+      "resolution": "1080p"
+    },
+    {
+      "name": "NOXX",
+      "url": "https://noxx.to/",
+      "category": "TV",
+      "resolution": "1080p"
+    },
+    {
+      "name": "Teleisodes",
+      "url": "https://www1.telepisodes.org/",
+      "category": "TV",
+      "resolution": "1080p"
+    },
+    {
+      "name": "databasegdriveplayer",
+      "url": "https://databasegdriveplayer.co/series.php",
+      "category": "TV / Anime",
+      "resolution": "720p"
+    },
+    {
+      "name": "TVSeries",
+      "url": "https://www.tvseries.in/",
+      "category": "TV / Anime",
+      "resolution": "720p"
+    },
+    {
+      "name": "Watch-TvSeries",
+      "url": "https://www1.watch-tvseries.net/",
+      "category": "TV",
+      "resolution": "1080p"
+    },
+    {
+      "name": "play.history",
+      "url": "https://play.history.com/channel",
+      "category": "Full History / A+E Episodes"
+    },
+    {
+      "name": "Adult Swim",
+      "url": "https://www.adultswim.com/videos/",
+      "category": "Full Adult Swim Episodes"
+    },
+    {
+      "name": "Homestar Runner",
+      "url": "https://homestarrunner.com/",
+      "category": "Web-Series / Games"
+    },
+    {
+      "name": "SFBTV",
+      "url": "https://diva.sfsu.edu/collections/sfbatv",
+      "category": "Bay Area TV Archive"
+    },
+    {
+      "name": "HDClump",
+      "url": "https://hdclump.com/",
+      "category": "Documentaries / Cooking / Gardening"
+    },
+    {
+      "name": "BrokenSilenze",
+      "url": "https://www.brokensilenze.net/",
+      "category": "Reality TV"
+    },
+    {
+      "name": "The Silent Library",
+      "url": "https://thesilentlibrary.com/",
+      "category": "Japanese Game Shows"
+    },
+    {
+      "name": "MyRM",
+      "url": "https://myrunningman.com/",
+      "category": "My Running Man Episodes"
+    },
+    {
+      "name": "No-Laughing Batsu Game List",
+      "url": "https://redd.it/2fgm9p"
+    },
+    {
+      "name": "TW Classics",
+      "url": "https://twcclassics.com/",
+      "category": "Weather Channel Replays"
+    },
+    {
+      "name": "cytube",
+      "url": "https://cytu.be/",
+      "category": "TV / Chat"
+    },
+    {
+      "name": "VaughnLive",
+      "url": "https://vaughn.live/browse/misc",
+      "category": "TV / Chat"
+    },
+    {
+      "name": "Baked",
+      "url": "https://baked.live/",
+      "category": "TV / Chat"
+    },
+    {
+      "name": "fun.cube",
+      "url": "https://funcube.space/",
+      "category": "TV / Chat"
+    }
+  ],
+
+  "Anime Streaming": [
+    {
+      "name": "Wotaku",
+      "url": "https://wotaku.moe/",
+      "category": "Japanese Piracy Index"
+    },
+    {
+      "name": "The Index",
+      "url": "https://theindex.moe",
+      "category": "Japanese Piracy Index",
+      "discord": "https://discord.gg/Snackbox",
+      "wiki": "https://thewiki.moe/"
+    },
+    {
+      "name": "EverythingMoe",
+      "url": "https://everythingmoe.com/",
+      "category": "Japanese Piracy Index",
+      "discord": "https://discord.gg/GuueaDgKdS"
+    },
+    {
+      "name": "Awesome Piracy Anime",
+      "url": "https://github.com/anshumanv/awesome-anime-sources",
+      "category": "Japanese Piracy Index"
+    },
+    {
+      "name": "AniWave",
+      "url": "https://aniwave.to/",
+      "alternative_urls": [
+        "https://anix.to/",
+        "https://animesuge.to/",
+        "https://gogoanimex.to/home",
+        "https://zorox.to/"
+      ],
+      "category": "Sub / Dub",
+      "resolution": "1080p",
+      "features": ["Lite", "Binge Script", "Ad Scripts"]
+    },
+    {
+      "name": "KickAssAnime",
+      "url": "https://kickassanime.mx/",
+      "alternative_urls": ["https://kickassanimes.info/"],
+      "category": "Sub / Dub",
+      "resolution": "1080p",
+      "discord": "https://discord.gg/qduzrvTG6p"
+    },
+    {
+      "name": "AniWatch",
+      "url": "https://aniwatch.to/",
+      "alternative_urls": [
+        "https://4anime.gg/",
+        "https://kaido.to/",
+        "https://9animetv.to/",
+        "https://anicrush.to/"
+      ],
+      "category": "Sub / Dub",
+      "resolution": "1080p",
+      "features": ["Auto-Focus"]
+    },
+    {
+      "name": "AnimePahe",
+      "url": "https://animepahe.com/",
+      "category": "Sub",
+      "resolution": "1080p",
+      "features": ["Mini Encoded Blu-ray", "Downloader"]
+    },
+    {
+      "name": "AllAnime",
+      "url": "https://allanime.to/",
+      "category": "Sub / Dub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "Japanese Animated Film Classics",
+      "url": "https://animation.filmarchives.jp/index.html",
+      "category": "Japanese Animated Film Archive"
+    },
+    {
+      "name": "Anime Streaming CSE",
+      "url": "https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei",
+      "alternative_urls": [
+        "https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu",
+        "https://kuroiru.co/"
+      ],
+      "category": "Multi-Site Anime Search"
+    },
+    {
+      "name": "GoGoAnime",
+      "url": "https://gogoanime3.net/",
+      "alternative_urls": ["https://anitaku.to/"],
+      "category": "Sub / Dub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "GoGoAnime Tools",
+      "category": "Tools",
+      "features": ["Mirrors", "Netflix Skin", "CLI", "Downloader", "DL Guide"],
+      "discord": "https://discord.gg/kyVfcGuCCQ"
+    },
+    {
+      "name": "AnimeHub",
+      "url": "https://animehub.ac/",
+      "category": "Sub / Dub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "Animixplay",
+      "url": "https://animixplay.tube/",
+      "alternative_urls": ["https://animixplay.name"],
+      "category": "Sub / Dub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "123Anime",
+      "url": "https://123animes.ru/",
+      "category": "Sub / Dub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "Ryuk",
+      "url": "https://ryuk.to/",
+      "category": "Sub / Dub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "Kaguya",
+      "url": "https://kaguya.app/",
+      "category": "Sub",
+      "resolution": "1080p",
+      "discord": "https://discord.gg/382BEFfER6"
+    },
+    {
+      "name": "Genoanime",
+      "url": "https://genoanime.com/",
+      "category": "Sub / Dub",
+      "resolution": "1080p",
+      "discord": "https://discord.com/invite/TMe9eVs2YY"
+    },
+    {
+      "name": "Animeflix",
+      "url": "https://animeflix.live/",
+      "category": "Sub / Dub",
+      "resolution": "1080p",
+      "alternative_urls": ["https://animeflix.domains/"]
+    },
+    {
+      "name": "AnimeHeaven",
+      "url": "https://animeheaven.me/",
+      "category": "Sub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "AnimeNana",
+      "url": "https://animenana.com/",
+      "category": "Sub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "Animension",
+      "url": "https://animension.to/",
+      "category": "Sub / Dub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "Animegg",
+      "url": "https://www.animegg.org/",
+      "category": "Sub / Dub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "YugenAnime",
+      "url": "https://yugenanime.tv/",
+      "category": "Sub / Dub",
+      "resolution": "1080p",
+      "discord": "https://discord.gg/MQqwQREyCz"
+    },
+    {
+      "name": "AnimeParadise",
+      "url": "https://www.animeparadise.moe/",
+      "category": "Sub / Dub",
+      "resolution": "1080p",
+      "discord": "https://discord.com/invite/q3N6eWMMNP"
+    },
+    {
+      "name": "AnimeLandTV",
+      "url": "https://w4.animeland.tv/",
+      "category": "Dub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "KissAnime",
+      "url": "https://kissanime.help/",
+      "category": "Sub / Dub",
+      "resolution": "1080p",
+      "discord": "https://discord.com/invite/w5ghWQG8uM"
+    },
+    {
+      "name": "Animetake",
+      "url": "https://animetake.tv/",
+      "category": "Sub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "Anime OWL",
+      "url": "https://anime-owl.net/",
+      "category": "Sub / Dub",
+      "resolution": "1080p",
+      "discord": "https://discord.com/invite/xHYcvdMvZ2"
+    },
+    {
+      "name": "ChiaAnime",
+      "url": "https://chia-anime.su/",
+      "category": "Sub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "AnimeFox",
+      "url": "https://animefox.in/",
+      "category": "Sub / Dub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "AnimeZia",
+      "url": "https://www.animezia.com/",
+      "category": "Sub / Dub",
+      "resolution": "1080p",
+      "telegram": "https://telegram.dog/anime_complex"
+    },
+    {
+      "name": "NAnime",
+      "url": "https://www.nanime.one/",
+      "category": "Sub / Dub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "ChiaAnime.cc",
+      "url": "https://chia-anime.cc/",
+      "category": "Sub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "BestDubbedAnime",
+      "url": "https://bestdubbedanime.com/",
+      "category": "Dub",
+      "resolution": "1080p",
+      "discord": "https://discord.com/invite/f2pHvauUPu"
+    },
+    {
+      "name": "DubbedAnime",
+      "url": "https://dubbedanime.biz/",
+      "category": "Sub / Dub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "KissCartoon.info",
+      "url": "https://kisscartoon.info/",
+      "category": "Sub / Dub",
+      "resolution": "720p",
+      "discord": "https://discord.com/invite/w5ghWQG8uM"
+    },
+    {
+      "name": "Animeow",
+      "url": "https://animeow.me/",
+      "category": "Sub / Dub",
+      "resolution": "720p"
+    },
+    {
+      "name": "Kawaiifu",
+      "url": "https://kawaiifu.com/",
+      "category": "Sub / Dub",
+      "resolution": "720p"
+    },
+    {
+      "name": "AnimeCross",
+      "url": "https://anime.cross.moe/",
+      "category": "Sub",
+      "resolution": "720p"
+    },
+    {
+      "name": "AnimeOnsen",
+      "url": "https://animeonsen.xyz/",
+      "category": "Sub",
+      "resolution": "720p"
+    },
+    {
+      "name": "AnimeXin",
+      "url": "https://animexin.vip/",
+      "category": "Chinese Anime / Sub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "Lucifer Donghua",
+      "url": "https://luciferdonghua.in/",
+      "category": "Chinese Anime / Sub",
+      "resolution": "1080p",
+      "telegram": "https://telegram.me/luciferdonghuaz"
+    },
+    {
+      "name": "LMAnime",
+      "url": "https://lmanime.com/",
+      "category": "Chinese Anime / Sub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "MyAnime",
+      "url": "https://myanime.live/",
+      "category": "Chinese Anime / Sub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "Animekhor",
+      "url": "https://animekhor.xyz/",
+      "category": "Chinese Anime / Sub",
+      "resolution": "1080p"
+    },
+    {
+      "name": "Crimsonfansubs",
+      "url": "https://crimsonfansubs.com/",
+      "category": "Chinese Anime / Sub",
+      "resolution": "1080p",
+      "discord": "https://discord.gg/PmYn97vtue"
+    },
+    {
+      "name": "Yuna",
+      "url": "https://yuna.moe/"
+    },
+    {
+      "name": "NineAnimator",
+      "url": "https://github.com/Layendan/NineAnimator-Tauri"
+    },
+    {
+      "name": "Miru",
+      "url": "https://miru.js.org/en/"
+    },
+    {
+      "name": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/videos/anime",
+      "category": "Sub / Dub",
+      "features": ["US Proxy", "Intro Skip"]
+    },
+    {
+      "name": "Themes.moe",
+      "url": "https://themes.moe/"
+    },
+    {
+      "name": "AnimeThemes",
+      "url": "https://animethemes.moe/"
+    },
+    {
+      "name": "AnimeMusicVideos",
+      "url": "https://www.animemusicvideos.org/"
+    },
+    {
+      "name": "Anime Clips",
+      "url": "https://discord.gg/5UXfcJf4Hj"
+    }
+  ],
+  "Cartoon Streaming": [
+    {
+      "name": "WCO",
+      "url": "https://www.wco.tv/",
+      "alternative_urls": [
+        "https://www.wcofun.org/",
+        "https://www.wcostream.tv/"
+      ],
+      "category": "Anime / Cartoons",
+      "resolution": "720p",
+      "downloader": "https://github.com/NobilityDeviant/Wcofun.com_Downloader"
+    },
+    {
+      "name": "KimCartoon",
+      "url": "https://kimcartoon.li/",
+      "category": "720p"
+    },
+    {
+      "name": "TopCartoons",
+      "url": "https://www.topcartoons.tv/",
+      "category": "720p"
+    },
+    {
+      "name": "WatchCartoonsOnline",
+      "url": "https://www1.watchcartoononline.bz/",
+      "category": "720p"
+    },
+    {
+      "name": "KissCartoon.info",
+      "url": "https://kisscartoon.info/",
+      "category": "Anime / Cartoons",
+      "resolution": "720p"
+    },
+    {
+      "name": "Kimcartoon.si",
+      "url": "https://kimcartoon.si/",
+      "category": "Anime / Cartoons"
+    },
+    {
+      "name": "Supercartoons",
+      "url": "https://www.supercartoons.net/"
+    },
+    {
+      "name": "FunnierMoments",
+      "url": "https://www.funniermoments.net/"
+    },
+    {
+      "name": "b98",
+      "url": "https://www.b98.tv/"
+    },
+    {
+      "name": "Disney Video",
+      "url": "https://video.disney.com/series/",
+      "category": "Disney Series & Shorts"
+    },
+    {
+      "name": "South Park",
+      "url": "https://www.southparkstudios.com/",
+      "category": "South Park Episodes",
+      "downloader": "https://github.com/thepwrtank18/spdl"
+    },
+    {
+      "name": "ToonamiAftermath",
+      "url": "https://www.toonamiaftermath.com/",
+      "alternative_urls": ["https://twonspot.com/twonami/"],
+      "category": "Toonami Streams"
+    }
+  ],
+  "Drama Streaming": [
+    {
+      "name": "DramaCool",
+      "url": "https://dramacool.cy/",
+      "alternative_urls": [
+        "https://www.dramacool9.co/",
+        "https://www1.watchasian.id/",
+        "https://www1.dramacool.do/"
+      ],
+      "category": "TV / Movies",
+      "resolution": "1080p"
+    },
+    {
+      "name": "KissAsian",
+      "url": "https://kissasian.pe/",
+      "category": "TV",
+      "resolution": "720p"
+    },
+    {
+      "name": "GoPlay",
+      "url": "https://goplay.ml",
+      "category": "TV / Movies",
+      "resolution": "1080p",
+      "discord": "https://discord.com/invite/yY2P3DQR8S"
+    },
+    {
+      "name": "Chinese Drama Site Index",
+      "url": "https://www.reddit.com/r/CDrama/wiki/streaming"
+    },
+    {
+      "name": "GDrive KDrama",
+      "url": "https://databasegdriveplayer.co/drama.php",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "AsianCrush",
+      "url": "https://www.asiancrush.com/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "KissKH",
+      "url": "https://kisskh.co/",
+      "category": "TV"
+    },
+    {
+      "name": "ivdrama",
+      "url": "https://ivdrama.me/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "ADrama",
+      "url": "https://www1.adrama.to/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "Viki",
+      "url": "https://www.viki.com/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "KDramaHood",
+      "url": "https://kdramahood.com/home2/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "DramaNice",
+      "url": "https://dramanice.la/",
+      "category": "TV"
+    },
+    {
+      "name": "AsianMovies",
+      "url": "https://asiansmovies.com/",
+      "category": "Movies"
+    },
+    {
+      "name": "KissTVShow",
+      "url": "https://kisstvshow.to/",
+      "category": "TV"
+    },
+    {
+      "name": "MyAsianTV",
+      "url": "https://myasiantv.cx/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "OneTouchTV",
+      "url": "https://onetouchtv.me/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "OFWShow",
+      "url": "https://ofwshow.ru/list/engsub/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "viewasian",
+      "url": "https://viewasian.co/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "NewAsianTV",
+      "url": "https://www2.newasiantv.pro/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "bagikuy",
+      "url": "https://bagikuy.com/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "Kissasian.video",
+      "url": "https://kissasian.video/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "iFlix",
+      "url": "https://www.iflix.com/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "WeTV",
+      "url": "https://wetv.vip/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "Viu",
+      "url": "https://www.viu.com/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "IQ",
+      "url": "https://www.iq.com/",
+      "category": "TV / Movies"
+    },
+    {
+      "name": "OnDemandChina",
+      "url": "https://www.ondemandchina.com/",
+      "category": "TV / Movies"
+    }
+  ],
+  "Sports Streaming": [
+    {
+      "name": "FullMatchTV",
+      "url": "https://fullmatchtv.com/",
+      "category": "Sports",
+      "resolution": "720p"
+    },
+    {
+      "name": "NBAHD",
+      "url": "https://watchreplay.net/",
+      "category": "Basketball",
+      "resolution": "720p"
+    },
+    {
+      "name": "NFL Replay",
+      "url": "https://nflreplay.net/",
+      "category": "Football",
+      "resolution": "720p"
+    },
+    {
+      "name": "Watch-Wrestling.eu",
+      "url": "https://watch-wrestling.eu/",
+      "category": "MMA / Wrestling",
+      "resolution": "1080p"
+    },
+    {
+      "name": "WatchWrestling24",
+      "url": "https://watchwrestling24.net/",
+      "category": "MMA / Wrestling",
+      "resolution": "720p"
+    },
+    {
+      "name": "WatchWrestlingUp",
+      "url": "https://watchwrestlingup.org/",
+      "alternative_urls": ["https://realfight.org/"],
+      "category": "MMA / Wrestling",
+      "resolution": "720p"
+    },
+    {
+      "name": "Race Replay",
+      "url": "https://racereplay.net/",
+      "category": "Motorsports",
+      "resolution": "720p"
+    },
+    {
+      "name": "Nascar Classics",
+      "url": "https://classics.nascar.com/",
+      "category": "Nascar",
+      "resolution": "1080p"
+    },
+    {
+      "name": "SportsReplay",
+      "url": "https://discord.com/invite/2r4pj67gCv",
+      "category": "Sports"
+    },
+    {
+      "name": "MLBLive",
+      "url": "https://mlblive.net/",
+      "category": "Baseball"
+    },
+    {
+      "name": "FullReplays",
+      "url": "https://www.fullreplays.com/",
+      "category": "Soccer"
+    },
+    {
+      "name": "FootballOrigin",
+      "url": "https://www.footballorgin.com/",
+      "category": "Soccer"
+    },
+    {
+      "name": "Footballia",
+      "url": "https://footballia.net/",
+      "category": "Soccer"
+    },
+    {
+      "name": "Footyfull",
+      "url": "https://footyfull.com/",
+      "category": "Soccer"
+    },
+    {
+      "name": "/r/footballhighlights/",
+      "url": "https://www.reddit.com/r/footballhighlights/",
+      "category": "Soccer"
+    },
+    {
+      "name": "Sport Video",
+      "url": "https://www.sport-video.org.ua/",
+      "category": "Multiple Sports / Torrents"
+    },
+    {
+      "name": "WatchWrestling.ae",
+      "url": "https://watchwrestling.ae/",
+      "category": "MMA / Wrestling"
+    },
+    {
+      "name": "WatchWrestling.wtf",
+      "url": "https://watchwrestling.wtf/",
+      "category": "MMA / Wrestling"
+    },
+    {
+      "name": "FullFights",
+      "url": "https://fullfights.net/",
+      "category": "MMA / Wrestling"
+    },
+    {
+      "name": "MMA High Kick",
+      "url": "https://www.mmahighkick.com/",
+      "category": "MMA / Boxing"
+    },
+    {
+      "name": "Hula8",
+      "url": "https://www.hula8.net/",
+      "category": "MMA"
+    },
+    {
+      "name": "Bellator",
+      "url": "https://www.bellator.com/video",
+      "category": "MMA"
+    },
+    {
+      "name": "MMACore",
+      "url": "https://www.mma-core.com",
+      "category": "MMA"
+    },
+    {
+      "name": "BoxingBoxingvideoideo",
+      "url": "https://boxingvideo.org/",
+      "category": "Boxing"
+    },
+    {
+      "name": "AllTheBestFights",
+      "url": "https://www.allthebestfights.com/",
+      "category": "MMA / Boxing / K1"
+    },
+    {
+      "name": "TNA / Impact Replays",
+      "url": "https://www.youtube.com/playlist?list=PLSadBNbijyoGV44wd96Fda7-GDYh9UktC",
+      "category": "TNA / Impact Wrestling"
+    },
+    {
+      "name": "/r/MotorsportsReplays",
+      "url": "https://reddit.com/r/MotorsportsReplays",
+      "category": "Motorsports"
+    },
+    {
+      "name": "FullMatchSports",
+      "url": "https://fullmatchsports.cc/",
+      "category": "Motorsports"
+    },
+    {
+      "name": "F1 Full Races",
+      "url": "https://f1fullraces.com/",
+      "category": "F1"
+    }
+  ],
+  "Live TV / Sports": [
+    {
+      "name": "Sportsurge",
+      "url": "https://sportsurge.net/",
+      "category": "Sports / Stream Locator"
+    },
+    {
+      "name": "EasyWebTV",
+      "url": "https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html",
+      "category": "TV / Sports",
+      "resolution": "1080p"
+    },
+    {
+      "name": "FreeSports",
+      "url": "https://freesports.to/",
+      "category": "Sports"
+    },
+    {
+      "name": "FSL",
+      "url": "https://a.fsl-stream.im/",
+      "alternative_urls": ["https://discord.gg/eXXJzDPchU"],
+      "category": "Sports",
+      "resolution": "720p"
+    },
+    {
+      "name": "IPTV Web",
+      "url": "https://iptv-web.app/",
+      "category": "TV / Sports"
+    },
+    {
+      "name": "RBTV",
+      "urls": [
+        "https://www.rbtv77.com/",
+        "https://www.rbtv77.tattoo/",
+        "https://www.rbtv77.website/"
+      ],
+      "category": "Sports"
+    },
+    {
+      "name": "OlympicStreams",
+      "url": "https://olympicstreams.me/",
+      "category": "Sports"
+    },
+    {
+      "name": "watch.lonelil",
+      "urls": [
+        "https://watch.lonelil.com/tv",
+        "https://watch.lonelil.com/schedule"
+      ],
+      "category": "TV / Sports"
+    },
+    {
+      "name": "Braflix",
+      "url": "https://www.braflix.app/",
+      "alternative_urls": ["https://discord.gg/wWKmxARaWH"],
+      "category": "TV / Sports"
+    },
+    {
+      "name": "SusFlix",
+      "url": "https://susflix.tv/",
+      "alternative_urls": ["https://discord.gg/BE7kTVezBN"],
+      "category": "TV / Sports"
+    },
+    {
+      "name": "TNS-LIVE",
+      "url": "https://live.tnsicn.com/",
+      "alternative_urls": ["https://discord.com/invite/mJyWFkGwQw"],
+      "category": "TV / Sports"
+    },
+    {
+      "name": "TOTV",
+      "url": "http://totv.org/",
+      "category": "TV / Sport"
+    },
+    {
+      "name": "TheTVApp",
+      "url": "https://thetvapp.to/",
+      "category": "TV / Sports"
+    },
+    {
+      "name": "DaddyLive",
+      "url": "https://dlhd.sx/",
+      "category": "TV / Sport"
+    },
+    {
+      "name": "Xumo Play",
+      "url": "https://play.xumo.com/networks",
+      "category": "TV / US only"
+    },
+    {
+      "name": "Sportsurge.club",
+      "url": "https://sportsurge.club/",
+      "category": "Sports"
+    },
+    {
+      "name": "1Stream",
+      "url": "https://1stream.eu/",
+      "category": "Sports"
+    },
+    {
+      "name": "s365",
+      "url": "https://www.s365.live/",
+      "category": "Sports"
+    },
+    {
+      "name": "First Row Sports",
+      "url": "https://firstsrowsports.tv/",
+      "category": "Sports"
+    },
+    
+    {
+      "name": "StreamEast",
+      "url": "https://streameast.app/",
+      "category": "Sports"
+    },
+    {
+      "name": "AESports",
+      "url": "https://aesport.tv/",
+      "category": "Sports"
+    },
+    {
+      "name": "720pStream",
+      "url": "https://720pstream.nu//",
+      "category": "Sports"
+    },
+   
+    {
+      "name": "BuffStream",
+      "url": "https://buffstream.io/",
+      "category": "Sports"
+    },
+    
+    {
+      "name": "Pluto",
+      "urls": [
+        "https://pluto.tv/live-tv",
+        "https://app-lgwebos.pluto.tv/live-tv"
+      ],
+      "category": "TV / Sports"
+    },
+    {
+      "name": "Time4TV",
+      "url": "https://time4tv.online/",
+      "category": "TV / Sports"
+    },
+    {
+      "name": "time4tv.top",
+      "url": "https://time4tv.top/",
+      "category": "TV / Sports"
+    },
+    {
+      "name": "CXtv",
+      "url": "https://www.cxtvlive.com/",
+      "category": "TV / Sports"
+    },
+    {
+      "name": "ProLive",
+      "url": "https://prolive.tv/",
+      "category": "TV / Sports"
+    },
+    {
+      "name": "TV247",
+      "url": "https://tv247.us/",
+      "category": "TV / Sports"
+    },
+    {
+      "name": "TvFlix",
+      "url": "https://tvflix.netlify.app/",
+      "category": "TV / Sports"
+    },
+    {
+      "name": "FreeInterTV",
+      "url": "http://www.freeintertv.com/",
+      "category": "TV / Sports"
+    },
+    {
+      "name": "Stream4Free Live",
+      "url": "https://www.infinite-streaming.live/",
+      "category": "TV / Sports"
+    },
+    {
+      "name": "vipotv",
+      "url": "https://vipotv.com/",
+      "category": "TV / Sports"
+    },
+    {
+      "name": "WwiTv",
+      "url": "https://wwitv.com/",
+      "category": "TV"
+    },
+    {
+      "name": "SquidTV",
+      "url": "https://www.squidtv.net/",
+      "category": "TV"
+    },
+    {
+      "name": "MHDTVPlay",
+      "url": "https://mhdtvplay.net/channel/english/",
+      "category": "TV"
+    },
+    {
+      "name": "PhotoCall",
+      "url": "https://photocall.tv/",
+      "category": "TV"
+    },
+    {
+      "name": "WorldCupFootball",
+      "url": "https://sportshd.sx/",
+      "category": "Sports"
+    },
+    {
+      "name": "SoccerWorldCup",
+      "url": "https://soccerworldcup.me/",
+      "category": "Sports"
+    },
+    {
+      "name": "Icelz",
+      "url": "https://icelz.newsrade.com/",
+      "category": "Sports"
+    },
+    {
+      "name": "Sports Plus",
+      "url": "https://en12.sportplus.live/",
+      "category": "Sports"
+    },
+    {
+      "name": "livetv",
+      "url": "https://livetv747.me/enx/",
+      "category": "Sports"
+    },
+    {
+      "name": "SportsHD",
+      "url": "http://sportshd.sx/",
+      "category": "Sports"
+    },
+    {
+      "name": "VIP Box Sports",
+      "url": "https://www.viprow.nu/",
+      "category": "Sports"
+    },
+    {
+      "name": "VIP Box",
+      "url": "https://www.vipbox.lc/",
+      "category": "Sports"
+    },
+    {
+      "name": "Rakettv",
+      "url": "https://rakettv.trendingpie.com/",
+      "category": "Sports"
+    },
+    {
+      "name": "Tezgoal",
+      "url": "https://tezgoal.com/",
+      "category": "Sports"
+    },
+    {
+      "name": "SportsHub",
+      "url": "https://sportshub.stream/",
+      "category": "Sports"
+    },
+    {
+      "name": "SportHD",
+      "url": "https://my.livesoccer.sx/",
+      "category": "Sports"
+    },
+    {
+      "name": "Cricfree",
+      "urls": ["https://cricfree.pw/", "https://hd.cricfree.io/"],
+      "category": "Sports"
+    },
+    {
+      "name": "Crickfree.tv",
+      "url": "https://crickfree.be/",
+      "category": "Sports"
+    },
+    {
+      "name": "SportsOnline",
+      "url": "https://sportsonline.gl/",
+      "category": "Sports"
+    },
+    {
+      "name": "BestNHL",
+      "url": "https://bestnhl.com/",
+      "category": "Sports"
+    },
+    {
+      "name": "Footybite",
+      "url": "https://streams.footybite.com/",
+      "category": "Sports"
+    },
+    {
+      "name": "MARKKY",
+      "url": "https://markkystreams.com/",
+      "category": "Sports"
+    },
+    {
+      "name": "CricHD",
+      "url": "https://mc2.crichd.com/",
+      "category": "Sports"
+    },
+    {
+      "name": "WorldStreams",
+      "url": "https://worldstreams.net/",
+      "category": "Sports"
+    },
+    {
+      "name": "p2pstreams",
+      "url": "https://p2pstreams.live/",
+      "category": "Sports"
+    },
+    {
+      "name": "StrikeOut",
+      "url": "https://strikeout.im/",
+      "category": "Sports"
+    },
+    {
+      "name": "BestSolaris",
+      "url": "https://bestsolaris.com/",
+      "category": "Sports"
+    },
+    {
+      "name": "Strims",
+      "url": "https://strims.in/",
+      "category": "Sports"
+    },
+    {
+      "name": "DudeStream",
+      "url": "https://www.dudestream.com/",
+      "category": "Sports"
+    },
+    {
+      "name": "CricHD",
+      "url": "https://v4.crichd.tv/",
+      "category": "Sports"
+    },
+    {
+      "name": "TotalSportek",
+      "urls": ["https://totalsportek.pro/", "https://www.totalsportek.to/"],
+      "category": "Sports"
+    },
+    {
+      "name": "Rojadirecta",
+      "url": "http://www.rojadirecta.eu/",
+      "alternative_urls": ["http://forum.rojadirecta.es/"],
+      "category": "Sports / Forum"
+    },
+    {
+      "name": "BoxingStreams100",
+      "url": "https://boxings.boxingstreams100.com/",
+      "category": "Boxing"
+    },
+    {
+      "name": "Boxing Stream",
+      "url": "https://boxingstream.ai/",
+      "category": "Boxing"
+    },
+    {
+      "name": "/r/WWEstreams/",
+      "url": "https://www.reddit.com/r/WWEstreams/",
+      "category": "Wrestling"
+    },
+    {
+      "name": "MMA Streams",
+      "url": "https://mmastreams.me/ufc-streams",
+      "category": "MMA"
+    },
+    {
+      "name": "MMA Streams",
+      "url": "https://tonight.mmastreams.cc/",
+      "category": "MMA"
+    },
+    {
+      "name": "LaCasadelTikiTaka",
+      "url": "https://www.lacasadeltikitaka.net/",
+      "category": "Soccer / MMA"
+    },
+    {
+      "name": "Football",
+      "url": "https://socceronline.me/",
+      "category": "Soccer"
+    },
+    {
+      "name": "Footybite",
+      "url": "https://www1.footybite.cc/",
+      "category": "Soccer"
+    },
+    {
+      "name": "NBA Streams",
+      "url": "https://nbabox.tv/",
+      "category": "NBA"
+    },
+    {
+      "name": "NFL Streams",
+      "url": "https://nflstreams.me/",
+      "category": "NFL"
+    },
+    {
+      "name": "NFLbite",
+      "url": "https://www.nflbite.com/",
+      "category": "NFL"
+    },
+    {
+      "name": "MLB66",
+      "url": "https://mlb66.ir/",
+      "category": "MLB"
+    },
+    {
+      "name": "/r/MLBStreams",
+      "url": "https://www.reddit.com/r/MLBStreams/",
+      "category": "MLB"
+    },
+    {
+      "name": "MLB Streams",
+      "url": "https://mlbstreams.me/",
+      "category": "MLB"
+    },
+    {
+      "name": "MLBshows",
+      "url": "https://mlbshow.com/",
+      "category": "MLB"
+    },
+    {
+      "name": "Aceztrims",
+      "url": "https://aceztrims.pages.dev/",
+      "category": "Motorsports"
+    },
+    {
+      "name": "MotoGP",
+      "url": "https://motogpstream.me/",
+      "category": "Motorsports"
+    },
+    {
+      "name": "DD12",
+      "url": "https://dd12streams.com/",
+      "category": "Nascar"
+    },
+    {
+      "name": "F1Box",
+      "url": "https://f1box.me/",
+      "category": "F1"
+    },
+    {
+      "name": "Formula 1 Streams",
+      "url": "https://live1.formula1stream.cc/",
+      "category": "F1"
+    },
+    {
+      "name": "NHLstream",
+      "url": "https://nhlstream.net/",
+      "category": "NHL"
+    },
+    {
+      "name": "NHL66",
+      "url": "https://nhl66.ir/",
+      "category": "NHL"
+    },
+    {
+      "name": "NHLBox Streams",
+      "url": "https://nhlstreams.me/",
+      "category": "NHL"
+    },
+    {
+      "name": "NHLbite",
+      "url": "https://nhlbite.com/",
+      "category": "NHL"
+    },
+    {
+      "name": "/r/rugbystreams",
+      "url": "https://www.reddit.com/r/rugbystreams/",
+      "category": "Rugby"
+    },
+    {
+      "name": "Rugby Streams",
+      "url": "https://rugbystreams.me/",
+      "category": "Rugby"
+    },
+    {
+      "name": "PakCric",
+      "url": "https://pakcric.net/",
+      "category": "Cricket"
+    },
+    {
+      "name": "Cricket Streams",
+      "url": "https://watch.cricstream.me/",
+      "category": "Cricket"
+    },
+    {
+      "name": "Tennis Streams",
+      "url": "https://live.tennisstreams.me/",
+      "category": "Tennis"
+    },
+    {
+      "name": "Golf Streams",
+      "url": "https://golfstreams.me/",
+      "category": "Golf"
+    },
+    {
+      "name": "Darts Streams",
+      "url": "https://dartsstreams.com/",
+      "category": "Darts"
+    },
+    {
+      "name": "TV.Jest",
+      "url": "https://tv.jest.one/",
+      "category": "News"
+    },
+    {
+      "name": "SHOWROOM",
+      "url": "https://showroom-live.com/",
+      "category": "Live Performance Broadcasts"
+    },
+    {
+      "name": "KCNA",
+      "url": "https://kcnawatch.us/korea-central-tv-livestream",
+      "category": "North Korean Live TV"
+    },
+    {
+      "name": "TitanTV",
+      "url": "https://titantv.com/",
+      "category": "Live TV Listings"
+    }
+  ],
+  "Download Sites": [
+    {
+      "title": "General DDL Sites",
+      "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download"
+    },
+    {
+      "title": "Video Download Tools",
+      "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25BA_video_download"
+    },
+    {
+      "title": "OlaMovies",
+      "category": "Movies / TV / 4K / 1080p",
+      "url": "https://olamovies.autos/",
+      "features": ["Telegram"]
+    },
+    {
+      "title": "Pahe",
+      "category": "Movies / TV / Anime / 4K",
+      "url": "https://pahe.ph/",
+      "features": ["Discord", "Redirect Buttons"]
+    },
+    {
+      "title": "PSARips",
+      "category": "Movies / TV / 4K",
+      "url": "https://psa.wf/"
+    },
+    {
+      "title": "LightDLMovies",
+      "category": "Movies / TV / 1080p",
+      "url": "https://lightdl.xyz/"
+    },
+    {
+      "title": "VegaMovies",
+      "category": "Movies / TV / Anime / 1080p / 4K",
+      "url": "https://vegamovies.ngo/",
+      "features": ["Telegram"]
+    },
+    {
+      "title": "MovieParadise",
+      "category": "Movies / TV / 1080p",
+      "url": "https://movieparadise.org/",
+      "notes": "Account Required for 1ficher links"
+    },
+    {
+      "title": "Drama Day",
+      "category": "Asian Drama / 1080p",
+      "url": "https://dramaday.me/"
+    },
+    {
+      "title": "Video Download CSE",
+      "url": "https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr",
+      "other_cse_links": [
+        "https://cse.google.com/cse?cx=89f2dfcea452fc451",
+        "https://cse.google.com/cse?cx=aab218d0aa53e3578"
+      ]
+    },
+    {
+      "title": "TvSeriesnMovies",
+      "category": "Movies / TV / Anime / 4K / 1080p",
+      "url": "https://www.tvseriesnmovies.com/"
+    },
+    {
+      "title": "DDLBase",
+      "category": "Movies / TV / 4K",
+      "url": "https://ddlbase.net/"
+    },
+    {
+      "title": "KatMovieHD",
+      "category": "Movies / TV / Anime / 1080p",
+      "url": "https://katmoviehd.ac/",
+      "features": ["Telegram"]
+    },
+    {
+      "title": "RareLust",
+      "category": "Rare Movies / NSFW / 1080p",
+      "url": "https://rarelust.com/"
+    },
+    {
+      "title": "My Duck Is Dead",
+      "category": "Rare Movies / NSFW / 1080p",
+      "url": "https://www.myduckisdead.org/"
+    },
+    {
+      "title": "StagaTV",
+      "category": "Movies / TV / 1080p",
+      "url": "https://www.stagatv.com/"
+    },
+    {
+      "title": "movie-web",
+      "category": "Movies / TV / 1080p",
+      "url": "https://movie-web.app/",
+      "features": ["Discord"]
+    },
+    {
+      "title": "StarsDDL",
+      "category": "Movies / TV / 1080p",
+      "url": "https://starsddl.me/"
+    },
+    {
+      "title": "Movies Ni Pipay",
+      "category": "Movies / TV / 1080p",
+      "url": "https://moviesnipipay.me/"
+    },
+    {
+      "title": "FilmDuty",
+      "category": "Movies / TV / Anime / 1080p",
+      "url": "https://filmduty.com/"
+    },
+    {
+      "title": "Downloads-Anymovies",
+      "category": "Movies / 1080p",
+      "url": "https://www.downloads-anymovies.co/"
+    },
+    {
+      "title": "Reqzone",
+      "category": "Movies / TV / 1080p",
+      "url": "https://reqzone.com/"
+    },
+    {
+      "title": "RLSXTVT",
+      "category": "Movies / TV / 1080p",
+      "url": "https://rlsxtvt.icu/"
+    },
+    {
+      "title": "MegaDDL",
+      "category": "Movies / TV / 1080p",
+      "notes": "Some Paywalled",
+      "url": "https://megaddl.co/"
+    },
+    {
+      "title": "UHDMovies",
+      "category": "Movies / 4K",
+      "url": "https://uhdmovies.zip/"
+    },
+    {
+      "title": "Best-Movies",
+      "category": "Movies / TV / 4K",
+      "url": "https://best-movies.info/"
+    },
+    {
+      "title": "Onkyo4k",
+      "category": "Movies / TV / 4K",
+      "url": "https://onkyo4k.com/"
+    },
+    {
+      "title": "ShareSpark",
+      "category": "Movies / TV / 1080p",
+      "url": "https://ww1.sharespark.cfd/"
+    },
+    {
+      "title": "Full4Movies",
+      "category": "Movies / TV / 1080p",
+      "url": "https://www.full4movies.cheap/",
+      "features": ["Telegram"]
+    },
+    {
+      "title": "Free Movies",
+      "category": "Movies / TV / 1080p",
+      "url": "https://free-movies.to/"
+    },
+    {
+      "title": "SomosMovies",
+      "category": "Movies / 1080p",
+      "url": "https://somosmovies.com/"
+    },
+    {
+      "title": "MovieSeriesTV",
+      "category": "Movies / TV / 1080p",
+      "url": "https://www.movieseriestv.net/"
+    },
+    {
+      "title": "SeriesVault",
+      "category": "TV / Anime / 1080p",
+      "url": "https://seriesvault.tk/"
+    },
+    {
+      "title": "MoviezAddiction",
+      "category": "Movies / TV / 4K",
+      "url": "https://ww3.moviezaddiction.click/",
+      "features": ["Telegram"]
+    },
+    {
+      "title": "FilmFans",
+      "category": "Movies / 4K",
+      "url": "https://filmfans.org/"
+    },
+    {
+      "title": "ShowBox",
+      "category": "Movies / TV / 4K",
+      "url": "https://www.showbox.media/",
+      "how_to": "https://rentry.co/febbox"
+    },
+    {
+      "title": "WorldFree4u",
+      "category": "Movies / 1080p",
+      "url": "https://worldfree4u.dad/"
+    },
+    {
+      "title": "SSR Movies",
+      "category": "Movies / TV / 1080p",
+      "url": "https://www.ssrmovies.hair/"
+    },
+    {
+      "title": "Best-MovieZ",
+      "category": "Movies / TV / 1080p",
+      "url": "https://www.best-moviez.ws/"
+    },
+    {
+      "title": "SeriezLoaded NG",
+      "category": "Movies / TV / 1080p",
+      "url": "https://www.seriezloaded.com.ng/"
+    },
+    {
+      "title": "MoviesMod",
+      "category": "Movies / TV / 1080p",
+      "url": "https://moviesmod.dev/movies/hollywood/english-movies/",
+      "features": ["Bypass"]
+    },
+    {
+      "title": "ShareMania",
+      "category": "Movies / TV / 4K",
+      "url": "https://sharemania.us/"
+    },
+    {
+      "title": "Google Drive Movies",
+      "url": "https://databasegdriveplayer.co/movie.php"
+    },
+    {
+      "title": "Google Drive TV",
+      "url": "https://databasegdriveplayer.co/series.php"
+    },
+    {
+      "title": "Google Drive Anime",
+      "url": "https://databasegdriveplayer.co/anime.php"
+    },
+    {
+      "title": "Google Drive KDrama",
+      "url": "https://databasegdriveplayer.co/drama.php"
+    },
+    {
+      "title": "ShareBB",
+      "category": "Movies / TV / 1080p",
+      "url": "https://sharebb.me/"
+    },
+    {
+      "title": "TwitchDL",
+      "category": "Movies / TV / Anime / 1080p",
+      "url": "https://dl2.twitchdl.us/"
+    },
+    {
+      "title": "Privatemoviez",
+      "category": "Movies / TV / 1080p",
+      "url": "https://privatemoviez.quest/",
+      "features": ["Telegram"]
+    },
+    {
+      "title": "FilmGo",
+      "category": "Movies / TV / 720p",
+      "url": "https://www.filmgo.live/"
+    },
+    {
+      "title": "FZMovies",
+      "category": "Movies / 720p",
+      "url": "https://fzmovies.host/"
+    },
+    {
+      "title": "YourSerie",
+      "category": "Movies / TV / 720p",
+      "url": "https://www.yourserie.com/"
+    },
+    {
+      "title": "SeriesWay",
+      "category": "Movies / TV / 720p",
+      "url": "https://seriesway.com/"
+    },
+    {
+      "title": "TV Shows",
+      "category": "TV / 720p",
+      "url": "https://tvshows.me/"
+    },
+    {
+      "title": "TVSBoy",
+      "category": "TV / 720p",
+      "url": "https://tvsboy.com/"
+    },
+    {
+      "title": "nKiri",
+      "category": "Movies / TV / 720p",
+      "url": "https://nkiri.com/"
+    },
+    {
+      "title": "TodayTVSeries",
+      "category": "TV / 720p",
+      "url": "https://www.todaytvseries2.com/"
+    },
+    {
+      "title": "TvShows4Mobile",
+      "category": "TV / Anime / 480p",
+      "url": "https://tvshows4mobile.com/",
+      "features": ["Telegram"]
+    },
+    {
+      "title": "NetNaija",
+      "category": "Movies / 480p",
+      "url": "https://netnaija.xyz/"
+    },
+    {
+      "title": "FZMoviesz",
+      "category": "Movies / TV / 480p",
+      "url": "https://fzmoviesz.com/"
+    },
+    {
+      "title": "weeFilm",
+      "category": "Movies / TV / Anime / 480p",
+      "url": "https://www.weefilm.live/",
+      "features": ["Telegram"]
+    },
+    {
+      "title": "Naijavault",
+      "category": "Movies / TV / 480p",
+      "url": "https://www.naijavault.com/"
+    },
+    {
+      "title": "KimoiTV",
+      "category": "Movies / TV / Anime / 360p",
+      "url": "https://www.kimoitv.com/"
+    },
+    {
+      "title": "Cartoons Raw",
+      "category": "Cartoons",
+      "url": "https://sites.google.com/view/cartoonraws-disney/home"
+    },
+    {
+      "title": "KMDL",
+      "category": "Asian Drama / 1080p",
+      "url": "https://rentry.co/FMHYBase64#kmdl"
+    },
+    {
+      "title": "Sinflix",
+      "category": "Asian Drama / 1080p",
+      "url": "https://rentry.co/FMHYBase64#sinflix"
+    },
+    {
+      "title": "CondensedAudioCatalog",
+      "category": "Asian Drama / 1080p",
+      "url": "https://condensedaudiocatalog.com/"
+    },
+    {
+      "title": "DoraMax264",
+      "category": "Asian Drama / 480p",
+      "url": "https://doramax264.com/"
+    },
+    {
+      "title": "Toku.fun",
+      "category": "Japanese Superhero Movies / 360p",
+      "url": "https://toku.fun/"
+    },
+   
+    {
+      "title": "IRC Movie Channels",
+      "url": "https://pastebin.com/2AeYizZK"
+    },
+    {
+      "title": "mov-cli",
+      "category": "Streaming / Downloading CLIs",
+      "url": "https://github.com/mov-cli/mov-cli"
+    },
+    {
+      "title": "Movies-and-Series-Scraper",
+      "category": "Streaming / Downloading CLIs",
+      "url": "https://github.com/yousefkotp/Movies-and-Series-Scraper"
+    },
+    {
+      "title": "IMDb-Scout-Mod",
+      "category": "Add Download Site Results to IMDb",
+      "url": "https://github.com/Purfview/IMDb-Scout-Mod"
+    }
+  ],
+  "Drives / Directories": [
+    {
+      "name": "moo",
+      "url": "https://rentry.co/FMHYBase64#moo",
+      "category": "Movies / TV"
+    },
+    {
+      "name": "Media",
+      "url": "https://rentry.co/FMHYBase64#media",
+      "category": "Movies / TV / Anime"
+    },
+    {
+      "name": "Vadapav",
+      "url": "https://rentry.co/FMHYBase64#vadapav",
+      "category": "Movies / TV / Anime"
+    },
+    {
+      "name": "188.165.227.112",
+      "url": "https://rentry.co/FMHYBase64#188165227112",
+      "category": "Movies / TV"
+    },
+    {
+      "name": "Extreme Mirror",
+      "url": "https://rentry.co/FMHYBase64#extreme-mirror",
+      "category": "Movies / TV / Anime"
+    },
+    {
+      "name": "r/moviegod",
+      "url": "https://rentry.co/FMHYBase64#rmoviegod",
+      "category": "Movies"
+    },
+    {
+      "name": "iPapkornBot or ProSearch4Bot",
+      "url": ["https://t.me/iPapkornBot", "https://t.me/ProSearch4Bot"],
+      "category": "Movies"
+    },
+    {
+      "name": "Mobile movies request bot",
+      "url": "https://t.me/cc_mmrequestbot",
+      "category": "Movies / 480p"
+    },
+    {
+      "name": "مسلسلات اجنبية‬",
+      "url": "https://rentry.co/FMHYBase64#%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9",
+      "category": "TV"
+    },
+    {
+      "name": "SolidarityCinema",
+      "url": "https://www.solidaritycinema.com/",
+      "category": "Movies",
+      "additional_info": "List: https://boxd.it/g0L"
+    },
+    {
+      "name": "Remux Collection",
+      "url": "https://rentry.co/FMHYBase64#17tb-mega-drive",
+      "category": "HD Movies"
+    },
+    {
+      "name": "4K Collection",
+      "url": "https://rentry.co/FMHYBase64#4k-movie-collection",
+      "category": "HD Movies"
+    },
+    {
+      "name": "Unbeatable Banzuke",
+      "url": "https://rentry.co/FMHYBase64#unbeatable-banzuke",
+      "category": "Unbeatable Banzuke"
+    },
+    {
+      "name": "Guide to finding fanedits",
+      "url": "https://redd.it/nd8z20",
+      "category": "How-to Find Fan Edits"
+    }
+  ],
+
+  "Anime Downloading": [
+    {
+      "name": "The Index DDL",
+      "url": "https://theindex.moe/collection/ddl-communities",
+      "category": "Anime DDL Sites",
+      "additional_info": "Discord: https://discord.gg/Snackbox, Wiki: https://thewiki.moe/"
+    },
+    {
+      "name": "Telegram Anime Downloads",
+      "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads",
+      "category": "↪️"
+    },
+    {
+      "name": "Tokyo Insider",
+      "url": "https://www.tokyoinsider.com/",
+      "category": "Sub / Dub"
+    },
+    {
+      "name": "AnimeOut",
+      "url": "https://www.animeout.xyz/",
+      "category": "Sub",
+      "additional_info": "Discord: https://discord.com/invite/yDURwdC"
+    },
+    {
+      "name": "hi10anime",
+      "url": "https://hi10anime.com/",
+      "category": "Sub",
+      "additional_info": "Discord: https://discord.gg/uZ85cbAg4T"
+    },
+    {
+      "name": "Flugel Anime",
+      "url": "https://rentry.co/FMHYBase64#flugel-anime",
+      "category": "Sub"
+    },
+    {
+      "name": "Kayoanime",
+      "url": "https://kayoanime.com/",
+      "category": "Sub / Dub",
+      "additional_info": "Telegram: https://t.me/AnimeKayo"
+    },
+    {
+      "name": "Anime Download CSE",
+      "url": "https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8",
+      "category": ""
+    },
+    {
+      "name": "HakuNeko",
+      "url": "https://hakuneko.download/",
+      "category": "Anime Download Apps",
+      "additional_info": "GitHub: https://github.com/manga-download/hakuneko"
+    },
+    {
+      "name": "SolidarityCinema",
+      "url": "https://www.solidaritycinema.com/",
+      "category": "Movies",
+      "additional_info": "List: https://boxd.it/g0L"
+    },
+    {
+      "name": "Remux Collection",
+      "url": "https://rentry.co/FMHYBase64#17tb-mega-drive",
+      "category": "HD Movies"
+    },
+    {
+      "name": "4K Collection",
+      "url": "https://rentry.co/FMHYBase64#4k-movie-collection",
+      "category": "HD Movies"
+    },
+    {
+      "name": "Unbeatable Banzuke",
+      "url": "https://rentry.co/FMHYBase64#unbeatable-banzuke",
+      "category": "Unbeatable Banzuke"
+    },
+    {
+      "name": "Guide to finding fanedits",
+      "url": "https://redd.it/nd8z20",
+      "category": "How-to Find Fan Edits"
+    }
+  ],
+  "Torrent Sites": [
+    {
+      "name": "General Torrent Sites",
+      "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent",
+      "category": "↪️"
+    },
+    {
+      "name": "1337x Movies",
+      "url": "https://1337x.to/top-100-movies",
+      "category": "Movies / TV / Anime"
+    },
+    {
+      "name": "RuTracker Movies",
+      "url": "https://rutracker.org/forum/index.php?c=2",
+      "category": "Movies / TV / Anime",
+      "additional_info": "Wiki: http://rutracker.wiki/, Rules: https://rutracker.org/forum/viewtopic.php?t=1045"
+    },
+    {
+      "name": "Kinozal",
+      "url": "https://kinozal.tv/",
+      "category": "Movies / TV / 4K"
+    },
+    {
+      "name": "Video Torrent CSE",
+      "url": "https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j",
+      "category": ""
+    },
+    {
+      "name": "TorrentGalaxy Movies",
+      "url": "https://torrentgalaxy.to/torrents.php?parent_cat=Movies",
+      "category": "Movies / TV / Anime"
+    },
+    {
+      "name": "EZTV",
+      "url": "https://eztvx.to/",
+      "category": "TV / Anime",
+      "additional_info": "Do NOT Make Account: https://web.archive.org/web/20230729051829/https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/"
+    },
+    {
+      "name": "RARBG Lite",
+      "url": "https://rarbglite.github.io/",
+      "category": "RARBG Movie Magnet Archive"
+    },
+    {
+      "name": "MSearch",
+      "url": "https://msearch.vercel.app/",
+      "category": "Movies / TV"
+    },
+    {
+      "name": "WatchSoMuch",
+      "url": "https://watchsomuch.com/",
+      "category": "Movies / TV / Anime",
+      "additional_info": "Proxy: https://watchsomuchproxy.com/"
+    },
+    {
+      "name": "GaoQing",
+      "url": "https://gaoqing.fm/",
+      "category": "Movies / TV / Anime",
+      "additional_info": "Translator: https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/"
+    },
+    {
+      "name": "Play",
+      "url": "http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/",
+      "category": "ZeroNet Required / Movies / TV"
+    },
+    {
+      "name": "Vuze",
+      "url": "https://www.vuze.com/content/",
+      "category": "Movies / TV"
+    },
+    {
+      "name": "YAPs",
+      "url": "https://yaps.cc/",
+      "category": "Movies / TV",
+      "additional_info": "GitHub: https://github.com/the-rarbg/yaps"
+    },
+    {
+      "name": "Public Domain Movie Torrents",
+      "url": "https://www.publicdomaintorrents.info/",
+      "category": "Movies"
+    },
+    {
+      "name": "YTS or YifyMovies",
+      "url": "https://yts.mx/",
+      "category": "Movies",
+      "additional_info": "Google Buttons: https://github.com/cotnw/muvi, Mirrors: https://www.yifystatus.com/, Search: https://yify.netlify.app/, Do NOT Make Account: https://web.archive.org/web/20230729051829/https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/"
+    },
+    {
+      "name": "JapaneseTorrents",
+      "url": "https://japanesetorrents.wordpress.com/",
+      "category": "Asian Drama"
+    },
+    {
+      "name": "TV-Nihon",
+      "url": "https://tracker.tvnihon.com/",
+      "category": "Japanese Commercial Archive"
+    },
+    {
+      "name": "XtremeWrestlingTorrents",
+      "url": "https://xtremewrestlingtorrents.net/",
+      "category": "Wrestling Private Tracker / Open Registrations"
+    },
+    {
+      "name": "IMDb Link em All, IMDb-Scout-Mod, TMDB-Torrent-Movie-Database",
+      "url": "https://greasyfork.org/en/scripts/17154-imdb-url-em-all",
+      "category": "Torrent Site Results on IMDb",
+      "additional_info": "GitHub: https://github.com/Purfview/IMDb-Scout-Mod, https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database"
+    },
+    {
+      "name": "srrextra",
+      "url": "https://github.com/srrDB/srrextra",
+      "category": "Scene Release Tracker on IMDb"
+    }
+  ]
+  ,"Anime Torrenting": [
+      {
+        "name": "Nyaa",
+        "urls": ["https://nyaa.si/", "https://nyaa.iss.one/", "https://nyaa.iss.ink/"],
+        "category": "Sub / Dub"
+      },
+      {
+        "name": "Nyaa Tools",
+        "category": "TUI: https://github.com/irevenko/koneko, CLI: https://github.com/johnvictorfs/nyaa-cli, Telegram Bot: https://github.com/ejnshtein/nyaasi-bot, Python Wrapper: https://github.com/JuanjoSalvador/NyaaPy, Torrent Fetch: https://github.com/manintel/nyaabag, Downloader: https://github.com/marcpinet/nyaadownloader, Quality Guide: https://greasyfork.org/en/scripts/441017-nyaablue",
+        "additional_info": ["https://t.me/meow_in_japanese_bot", "https://github.com/Vivek-Kolhe/Nyaa-API"]
+      },
+      {
+        "name": "AnimeTosho",
+        "url": "https://animetosho.org/",
+        "category": "Sub / Dub"
+      },
+      {
+        "name": "Anirena",
+        "url": "https://www.anirena.com/",
+        "category": "Sub / Dub"
+      },
+      {
+        "name": "TokyoTosho",
+        "url": "https://www.tokyotosho.info/",
+        "category": "Sub"
+      },
+      {
+        "name": "ShanaProject",
+        "url": "https://www.shanaproject.com/",
+        "category": "Sub"
+      },
+      {
+        "name": "Anidex",
+        "url": "https://anidex.info/",
+        "category": "Sub / Dub"
+      },
+      {
+        "name": "Hi10Anime",
+        "url": "https://hi10anime.com/",
+        "category": "Sub"
+      },
+      {
+        "name": "bakabt",
+        "url": "https://bakabt.me/",
+        "category": "Sub / Dub",
+        "additional_info": "Interviews: https://wiki.bakabt.me/index.php/Sign_up"
+      },
+      {
+        "name": "Anime Torrent CSE",
+        "url": "https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz",
+        "category": ""
+      },
+   
+      {
+        "name": "Fansubcar",
+        "url": "https://index.fansubcar.tel/",
+        "category": "Fansubbers Index"
+      },
+      {
+        "name": "SubsPlease",
+        "url": "https://subsplease.org/",
+        "category": "Sub"
+      },
+      {
+        "name": "DameDesuYo",
+        "url": "https://damedesuyo.com/",
+        "category": "Sub"
+      },
+      {
+        "name": "GoodJobMedia",
+        "url": "https://www.goodjobmedia.com/",
+        "category": "Sub"
+      },
+      {
+        "name": "Chihiro",
+        "url": "https://chihiro-subs.com/",
+        "category": "Sub"
+      },
+      {
+        "name": "AnimeRG",
+        "url": "https://animereleasegroup.blogspot.com/",
+        "category": "Sub / Dub"
+      },
+      {
+        "name": "Some-Stuffs",
+        "url": "https://some-stuffs.com/",
+        "category": "Sub",
+        "additional_info": "Discord: https://discord.gg/wYgXer2"
+      },
+      {
+        "name": "Erai-Raws",
+        "url": "https://www.erai-raws.info/",
+        "category": "Sub"
+      },
+      {
+        "name": "Play Anime",
+        "url": "http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/",
+        "category": "Sub",
+        "additional_info": "ZeroNet Required: https://zeronet.io/"
+      },
+      {
+        "name": "Miru",
+        "url": "https://github.com/ThaUnknown/miru",
+        "category": "Stream Anime Torrents"
+      }
+    ]
+  
+  
+}

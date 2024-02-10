@@ -1,0 +1,367 @@
+{
+    "anime": {
+      "streaming": [
+        {
+          "name": "9anime.to",
+          "url": "https://www2.9anime.to/"
+        },
+        {
+          "name": "animation.filmarchives.jp",
+          "url": "https://animation.filmarchives.jp/en/"
+        },
+        {
+          "name": "anime8.ru",
+          "url": "https://anime8.ru/"
+        },
+        {
+          "name": "animebuff.ru",
+          "url": "https://animebuff.ru/"
+        },
+        {
+          "name": "animedao.to",
+          "url": "https://animedao.to/"
+        },
+        {
+          "name": "animeflv.net",
+          "url": "https://animeflv.net/"
+        },
+        {
+          "name": "animehub.ac",
+          "url": "https://animehub.ac"
+        },
+        {
+          "name": "animelon.com",
+          "url": "https://animelon.com"
+        },
+        {
+          "name": "anime-loads.org",
+          "url": "https://www.anime-loads.org/"
+        },
+        {
+          "name": "animepahe.com",
+          "url": "https://animepahe.com/"
+        },
+        {
+          "name": "anime-planet.com",
+          "url": "https://www.anime-planet.com/"
+        },
+        {
+          "name": "animixplay.to",
+          "url": "https://animixplay.to/"
+        },
+        {
+          "name": "animeshow.tv",
+          "url": "https://animeshow.tv"
+        },
+        {
+          "name": "animetake.tv",
+          "url": "https://animetake.tv"
+        },
+        {
+          "name": "anitube.site",
+          "url": "https://www.anitube.site/"
+        },
+        {
+          "name": "animevibe.ru",
+          "url": "https://animevibe.ru/"
+        },
+        {
+          "name": "chihiro-subs.com",
+          "url": "https://chihiro-subs.com/"
+        },
+        {
+          "name": "crunchyroll.com",
+          "url": "https://www.crunchyroll.com/"
+        },
+        {
+          "name": "animedubbed.me",
+          "url": "https://animedubbed.me/"
+        },
+        {
+          "name": "justdubs.org",
+          "url": "https://justdubs.org"
+        },
+        {
+          "name": "kawaiifu.com",
+          "url": "https://kawaiifu.com"
+        },
+        {
+          "name": "kaa.si",
+          "url": "https://kaa.si"
+        },
+        {
+          "name": "kimcartoon.to",
+          "url": "https://kimcartoon.to"
+        },
+        {
+          "name": "proxer.me",
+          "url": "https://proxer.me"
+        },
+        {
+          "name": "simpleyaweeb.com",
+          "url": "https://simplyaweeb.com/series/"
+        },
+        {
+          "name": "otaku-streamers.com",
+          "url": "https://otaku-streamers.com/"
+        },
+        {
+          "name": "watchcartoononline.io",
+          "url": "https://www.watchcartoononline.io/"
+        },
+        {
+          "name": "tranimeizle.net",
+          "url": "https://tranimeizle.net"
+        },
+        {
+          "name": "turkanime.net",
+          "url": "https://turkanime.net/"
+        },
+        {
+          "name": "aniwatch.to",
+          "url": "https://aniwatch.to"
+        },
+        {
+          "name": "AniLibria.TV",
+          "url": "https://anilibria.tv/"
+        },
+        {
+          "name": "AnimeVost.org",
+          "url": "https://animevost.org/"
+        },
+        {
+          "name": "yummyanime.club",
+          "url": "https://yummyanime.club/"
+        },
+        {
+          "name": "AniDub.com",
+          "url": "https://online.anidub.com/"
+        },
+        {
+          "name": "AniStar.org",
+          "url": "https://anistar.org"
+        },
+        {
+          "name": "AnimeSub.lt",
+          "url": "https://animesub.lt"
+        }
+      ],
+      "downloading": [
+        {
+          "name": "anime8.ru",
+          "url": "https://anime8.ru/"
+        },
+        {
+          "name": "anime2enjoy.com",
+          "url": "https://anime2enjoy.com/"
+        },
+        {
+          "name": "anichiraku.ru",
+          "url": "https://anichiraku.ru/"
+        },
+        {
+          "name": "anidl.org",
+          "url": "https://anidl.org"
+        },
+        {
+          "name": "animekaizoku.com",
+          "url": "https://animekaizoku.com/"
+        },
+        {
+          "name": "animechiby.com",
+          "url": "https://www.animechiby.com/"
+        },
+        {
+          "name": "animekayo.com",
+          "url": "https://animekayo.com"
+        },
+        {
+          "name": "animeout.xyz",
+          "url": "https://www.animeout.xyz/"
+        },
+        {
+          "name": "erai-raws.info",
+          "url": "https://erai-raws.info"
+        },
+        {
+          "name": "darklegends60mb.org",
+          "url": "https://www.darklegends60mb.org/"
+        },
+        {
+          "name": "hi10anime.com",
+          "url": "https://hi10anime.com/"
+        },
+        {
+          "name": "nibl.co.uk",
+          "url": "https://nibl.co.uk/bots.php"
+        }
+      ]
+    },
+    "manga": {
+      "online_reading": [
+        {
+          "name": "1stkissmanga",
+          "url": "https://1stkissmanga.com/"
+        },
+        {
+          "name": "Chibi manga reader",
+          "url": "https://www.cmreader.info/"
+        },
+        {
+          "name": "Fallen Angels",
+          "url": "https://manga.fascans.com/"
+        },
+        {
+          "name": "Mangadex",
+          "url": "https://mangadex.org/"
+        },
+        {
+          "name": "bato.to",
+          "url": "https://bato.to/"
+        },
+        {
+          "name": "bulumanga.com",
+          "url": "https://bulumanga.com/"
+        },
+        {
+          "name": "fanfox.net",
+          "url": "https://fanfox.net/"
+        },
+        {
+          "name": "mangakomi",
+          "url": "https://mangakomi.com/"
+        },
+        {
+          "name": "mangaplus",
+          "url": "https://mangaplus.shueisha.co.jp/updates"
+        },
+        {
+          "name": "VizMedia",
+          "url": "https://www.viz.com/shonenjump"
+        },
+        {
+          "name": "mangafreak.eu",
+          "url": "https://mangafreak.eu/"
+        },
+        {
+          "name": "mangahere.cc",
+          "url": "https://mangahere.cc/"
+        },
+        {
+          "name": "mangakakalot.com",
+          "url": "https://mangakakalot.com/"
+        },
+        {
+          "name": "manganelo.com",
+          "url": "https://manganelo.com/"
+        },
+        {
+          "name": "mangapanda.com",
+          "url": "https://www.mangapanda.com/"
+        },
+        {
+          "name": "mangapark.net",
+          "url": "https://mangapark.net/"
+        },
+        {
+          "name": "mangareader.net",
+          "url": "https://www.mangareader.net/"
+        },
+        {
+          "name": "mangareader.to",
+          "url": "https://mangareader.to/"
+        },
+        {
+          "name": "mangasee123.com",
+          "url": "https://mangasee123.com/"
+        },
+        {
+          "name": "ReadManga Today",
+          "url": "https://www.readmng.com/"
+        },
+        {
+          "name": "Mangazuki",
+          "url": "https://mangazuki.me/"
+        },
+        {
+          "name": "readcomiconline",
+          "url": "https://readcomiconline.to/"
+        },
+        {
+          "name": "readm",
+          "url": "https://readm.org/"
+        },
+        {
+          "name": "readmanhua",
+          "url": "https://readmanhua.net/"
+        },
+        {
+          "name": "weebtoons",
+          "url": "https://www.webtoons.com/en/"
+        },
+        {
+          "name": "WuxiaWorld",
+          "url": "https://wuxiaworld.site/"
+        },
+        {
+          "name": "MangaLib.me",
+          "url": "https://mangalib.me/"
+        },
+        {
+          "name": "desu.me",
+          "url": "https://desu.me/"
+        },
+        {
+          "name": "ReadManga",
+          "url": "https://readmanga.live/"
+        },
+        {
+          "name": "ReManga",
+          "url": "https://remanga.org/"
+        },
+        {
+          "name": "MangaSco",
+          "url": "https://mangasco.com/"
+        }
+      ],
+      "listing_database": [
+        {
+          "name": "mangaupdates",
+          "url": "mangaupdates.com"
+        },
+        {
+          "name": "animenewsnetwork.com",
+          "url": "https://animenewsnetwork.com"
+        },
+        {
+          "name": "kitsu.io",
+          "url": "https://kitsu.io"
+        },
+        {
+          "name": "myanimelist.net",
+          "url": "https://myanimelist.net"
+        },
+        {
+          "name": "anilist.co",
+          "url": "https://anilist.co"
+        },
+        {
+          "name": "anisearch.com",
+          "url": "https://anisearch.com"
+        },
+        {
+          "name": "anime-planet.com",
+          "url": "https://anime-planet.com"
+        },
+        {
+          "name": "shikimori.one",
+          "url": "https://shikimori.one/"
+        },
+        {
+          "name": "kaize.io",
+          "url": "https://kaize.io"
+        }
+      ]
+    }
+  }
+  
