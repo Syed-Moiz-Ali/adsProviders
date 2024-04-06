@@ -1,121 +1,120 @@
 [
-{
-      'url': 'https://spankbang.party/',
-      'type': '1',
-      'query': {
-        'trending': 'trending_videos/',
-        'popular': 'most_popular/',
-        'upcoming': 'upcoming/',
-        'new': 'new_videos/',
+    {
+      "url": "https://spankbang.party/",
+      "type": "1",
+      "query": {
+        "trending": "trending_videos/",
+        "popular": "most_popular/",
+        "upcoming": "upcoming/",
+        "new": "new_videos/"
       },
-      'name': 'spankbang',
-      'NSFW': '1',
-      'isPreview': '1',
+      "name": "spankbang",
+      "NSFW": "1",
+      "isPreview": "1"
     },
     {
-      'url': 'https://goodporn.to/',
-      'type': '1',
-      'name': 'goodporn',
-      'NSFW': '1',
-      'isPreview': '1',
-      'query': {
-        'latest updates': 'latest-updates/',
-        'top rated': 'top-rated/',
-        'most popular': 'most-popular/',
-      },
+      "url": "https://goodporn.to/",
+      "type": "1",
+      "name": "goodporn",
+      "NSFW": "1",
+      "isPreview": "1",
+      "query": {
+        "latest updates": "latest-updates/",
+        "top rated": "top-rated/",
+        "most popular": "most-popular/"
+      }
     },
     {
-      'url': 'https://jav.guru/',
-      'type': '1',
-      'name': 'javguru',
-      'NSFW': '1',
-      'isPreview': '0',
-      'query': {
-        'trending': 'trending_videos/',
-        'popular': 'popular_videos/',
-        'upcoming': 'upcoming/',
-        'new': 'new_videos/',
-      },
+      "url": "https://jav.guru/",
+      "type": "1",
+      "name": "javguru",
+      "NSFW": "1",
+      "isPreview": "0",
+      "query": {
+        "trending": "trending_videos/",
+        "popular": "popular_videos/",
+        "upcoming": "upcoming/",
+        "new": "new_videos/"
+      }
     },
     {
-      'url': 'https://sxyprn.com/',
-      'type': '1',
-      'name': 'sxyprn',
-      'NSFW': '1',
-      'isPreview': '0',
-      'query': {
-        'trending': 'trending_videos/',
-        'popular': 'popular_videos/',
-        'upcoming': 'upcoming/',
-        'new': 'new_videos/',
-      },
+      "url": "https://sxyprn.com/",
+      "type": "1",
+      "name": "sxyprn",
+      "NSFW": "1",
+      "isPreview": "0",
+      "query": {
+        "trending": "trending_videos/",
+        "popular": "popular_videos/",
+        "upcoming": "upcoming/",
+        "new": "new_videos/"
+      }
     },
     {
-      'url': 'https://www.tabooporn.tv/',
-      'type': '1',
-      'name': 'tabooporn',
-      'NSFW': '1',
-      'isPreview': '1',
-      'query': {
-        'latest updates': 'latest-updates/',
-        'top rated': 'top-rated/',
-        'most popular': 'most-popular/',
-      },
+      "url": "https://www.tabooporn.tv/",
+      "type": "1",
+      "name": "tabooporn",
+      "NSFW": "1",
+      "isPreview": "1",
+      "query": {
+        "latest updates": "latest-updates/",
+        "top rated": "top-rated/",
+        "most popular": "most-popular/"
+      }
     },
     {
-      'url': 'https://crazyshit.com/',
-      // 'param': 'videos',
-      'type': '1',
-      'name': 'crazyshit',
-      'NSFW': '1',
-      'isPreview': '0',
-      'query': {
-        'extreme content': 'category/extreme-content/',
-        'fight': 'category/fight/',
-        'slutty': 'category/slutty/',
-        'nudity': 'category/random-nudity/',
-        'wtf': 'category/wtf/',
-        'videos': 'videos/',
-        'pictures': 'pictures/',
-      },
+      "url": "https://crazyshit.com/",
+      "type": "1",
+      "name": "crazyshit",
+      "NSFW": "1",
+      "isPreview": "0",
+      "query": {
+        "extreme content": "category/extreme-content/",
+        "fight": "category/fight/",
+        "slutty": "category/slutty/",
+        "nudity": "category/random-nudity/",
+        "wtf": "category/wtf/",
+        "videos": "videos/",
+        "pictures": "pictures/"
+      }
     },
     {
-      'url': 'https://hqporner.com/',
-      'type': '1',
-      'NSFW': '1',
-      'isPreview': '0',
-      'name': 'hqporner',
-      'query': {
-        'top': 'top/',
-      },
+      "url": "https://hqporner.com/",
+      "type": "1",
+      "NSFW": "1",
+      "isPreview": "0",
+      "name": "hqporner",
+      "query": {
+        "top": "top/"
+      }
     },
     {
-      'url': 'https://kompoz2.com/',
-      'type': '1',
-      'NSFW': '1',
-      'isPreview': '0',
-      'name': 'kompoz2',
-      'pageType': 'page=',
-      'query': {
-        'latest': 'latest/',
-        'top rated videos': 'top-rated-videos/',
-        'most-viewed-videos': 'most-viewed-videos/',
-        'longest-videos': 'longest-videos/',
-      },
+      "url": "https://kompoz2.com/",
+      "type": "1",
+      "NSFW": "1",
+      "isPreview": "0",
+      "name": "kompoz2",
+      "pageType": "page=",
+      "query": {
+        "latest": "latest/",
+        "top rated videos": "top-rated-videos/",
+        "most-viewed-videos": "most-viewed-videos/",
+        "longest-videos": "longest-videos/"
+      }
     },
     {
-      'url': 'https://porndoe.com/',
-      'type': '1',
-      'NSFW': '1',
-      'isPreview': '1',
-      'name': 'porndoe',
-      'pageType': 'page=',
-      'query': {
-        'latest': 'videos/',
-        'top rated videos': 'videos?sort=likes',
-        'most viewed videos': 'videos?sort=views',
-        'longest-videos': 'videos?sort=length',
-        'movies': 'movies/',
-      },
-    },
-]
+      "url": "https://porndoe.com/",
+      "type": "1",
+      "NSFW": "1",
+      "isPreview": "1",
+      "name": "porndoe",
+      "pageType": "page=",
+      "query": {
+        "latest": "videos/",
+        "top rated videos": "videos?sort=likes",
+        "most viewed videos": "videos?sort=views",
+        "longest-videos": "videos?sort=length",
+        "movies": "movies/"
+      }
+    }
+  ]
