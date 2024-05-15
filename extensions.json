@@ -2,6 +2,7 @@
   {
     "url": "https://spankbang.party/",
     "type": "1",
+    "searchUrl": "https://spankbang.party/s/{search}",
     "getType": "1",
     "decodeType": "1",
     "query": {
@@ -17,6 +18,7 @@
   },
   {
     "url": "https://goodporn.to/",
+    "searchUrl": "https://goodporn.to/search/{search}/",
     "type": "1",
     "getType": "1",
     "decodeType": "1",
@@ -32,6 +34,7 @@
   },
   {
     "url": "https://jav.guru/",
+    "searchUrl": "https://jav.guru/?s={search}",
     "type": "1",
     "getType": "1",
     "decodeType": "1",
@@ -50,6 +53,7 @@
   },
   {
     "url": "https://javhd.today/",
+    "searchUrl": "https://javhd.today/search/video/?s={search}",
     "type": "1",
     "getType": "1",
     "decodeType": "1",
@@ -70,6 +74,7 @@
 
   {
     "url": "https://crazyshit.com/",
+    "searchUrl": "https://crazyshit.com/search/{search}/",
 
     "type": "1",
     "getType": "1",
@@ -87,6 +92,7 @@
   },
   {
     "url": "https://njav.tv/en/",
+    "searchUrl": "https://njav.tv/en/search?keyword={search}",
 
     "type": "1",
     "getType": "1",
@@ -110,6 +116,7 @@
 
   {
     "url": "https://kompoz2.com/",
+    "searchUrl": "https://kompoz2.com/find/{search}/",
     "type": "1",
     "NSFW": "1",
     "decodeType": "1",
@@ -127,6 +134,7 @@
   },
   {
     "url": "https://collectionofbestporn.com/",
+    "searchUrl": "https://collectionofbestporn.com/search/{search}",
     "type": "1",
     "decodeType": "1",
     "NSFW": "1",
@@ -144,6 +152,7 @@
   },
   {
     "url": "https://bigfuck.tv/",
+    "searchUrl": "https://bigfuck.tv/s/{search}/",
     "type": "1",
     "decodeType": "1",
     "NSFW": "1",
@@ -160,6 +169,7 @@
   },
   {
     "url": "https://xtapes.to/porn-movies-hd/",
+    "searchUrl": "https://xtapes.to/?s={search}",
     "type": "1",
     "decodeType": "1",
     "NSFW": "1",
@@ -180,6 +190,7 @@
 
   {
     "url": "https://netfapx.net/",
+    "searchUrl": "https://netfapx.net/?s={search}",
     "type": "1",
     "decodeType": "1",
     "NSFW": "1",
@@ -195,6 +206,7 @@
   },
   {
     "url": "https://trannyvideosxxx.net/",
+    "searchUrl": "https://trannyvideosxxx.net/?s={search}",
     "type": "1",
     "decodeType": "1",
     "NSFW": "1",
@@ -211,6 +223,7 @@
   },
   {
     "url": "https://www.whoreshub.com/",
+    "searchUrl": "https://www.whoreshub.com/search/{search}/",
     "type": "1",
     "decodeType": "1",
     "NSFW": "1",
@@ -228,6 +241,7 @@
   },
   {
     "url": "https://porntop.com/",
+    "searchUrl": "https://porntop.com/search/{search}/",
     "type": "1",
     "decodeType": "1",
     "NSFW": "1",
@@ -246,6 +260,7 @@
   },
   {
     "url": "https://pandamovies.org/",
+    "searchUrl": "https://pandamovies.org/?s={search}",
     "type": "1",
     "decodeType": "1",
     "NSFW": "1",
@@ -261,6 +276,7 @@
   },
   {
     "url": "https://internetchicks.com/",
+    "searchUrl": "https://internetchicks.com/",
     "type": "1",
     "decodeType": "1",
     "NSFW": "1",
@@ -284,6 +300,7 @@
   },
   {
     "url": "https://www.pornhub.org/",
+    "searchUrl": "https://www.pornhub.org/video/search?search={search}",
     "type": "1",
     "decodeType": "1",
     "NSFW": "1",
@@ -299,6 +316,7 @@
   },
   {
     "url": "https://x-pictures.io/aiporn/gallery",
+    "searchUrl": "https://x-pictures.io/aiporn/gallery?query={search}",
     "type": "1",
     "decodeType": "1",
     "NSFW": "1",
@@ -314,6 +332,7 @@
   },
   {
     "url": "https://taboohome.com/",
+    "searchUrl": "https://taboohome.com/?s={search}",
     "type": "1",
     "decodeType": "1",
     "NSFW": "1",
@@ -333,6 +352,7 @@
 
   {
     "url": "https://watchporninpublic.net/",
+    "searchUrl": "https://watchporninpublic.net/?s={search}",
     "type": "1",
     "decodeType": "1",
     "NSFW": "1",
@@ -353,6 +373,7 @@
 
   {
     "url": "https://www.povaddict.com/",
+    "searchUrl": "https://www.povaddict.com/search/video/?s={search}",
     "type": "1",
     "NSFW": "1",
     "decodeType": "1",
