@@ -52,6 +52,26 @@
     }
   },
   {
+    "url": "https://www.freeomovie.to/",
+    "searchUrl": "https://www.freeomovie.to/?s={search}",
+    "type": "1",
+    "getType": "1",
+    "decodeType": "1",
+    "name": "freeomovie",
+    "icon": "https://www.freeomovie.to/wp-content/uploads/2023/05/freeomovie.to_.png",
+    "NSFW": "1",
+    "isPreview": "0",
+    "isEmbed": "1",
+    "pageType": "page/",
+    "query": {
+      "fullmovie": "category/full-movie/",
+      "clips": "category/clips/",
+      "all sex": "category/all-sex/",
+      "all girl": "category/all-girl/",
+      "big tits": "category/big-tits/"
+    }
+  },
+  {
     "url": "https://javhd.today/",
     "searchUrl": "https://javhd.today/search/video/?s={search}",
     "type": "1",
@@ -317,7 +337,7 @@
   {
     "url": "https://x-pictures.io/aiporn/gallery",
     "searchUrl": "https://x-pictures.io/aiporn/gallery?query={search}",
-    "type": "3",
+    "type": "1",
     "decodeType": "1",
     "NSFW": "1",
     "getType": "1",
@@ -440,6 +460,23 @@
   },
 
   {
+    "url": "https://pmatehunter.com/",
+    "type": "3",
+    "NSFW": "1",
+    "getType": "1",
+    "decodeType": "1",
+    "isPreview": "0",
+    "name": "pmatehunter",
+    "pageType": "mpage/",
+    "icon": "https://cdn.pmatehunter.com/wp-content/themes/masonry/images/favicons/apple-touch-icon.png",
+    "query": {
+      "pics": "updates/sort/filter/ord/0/content/pix/quality/0/tags/0/",
+      "trending": "updates/",
+      "newest": "updates/sort/newest/",
+      "popular": "updates/sort/popular/"
+    }
+  },
+  {
     "url": "https://www.xxxfollow.com/api/v1/user/public?",
     "type": "2",
     "NSFW": "1",
@@ -451,6 +488,35 @@
     "pageType": "page=",
     "query": {
       "recent": ""
+    }
+  },
+  {
+    "url": "https://api.avrebo.net/api/v1/video/listRandom?limit=20",
+    "type": "2",
+    "NSFW": "1",
+    "getType": "1",
+    "decodeType": "2",
+    "isPreview": "0",
+    "name": "avrebo",
+    "icon": "https://www.avrebo.com/pwa-icons/android-chrome-192x192.png",
+    "query": {
+      "recent": ""
+    }
+  },
+  {
+    "url": "https://babesource.com/",
+    "type": "3",
+    "NSFW": "1",
+    "getType": "1",
+    "decodeType": "1",
+    "isPreview": "0",
+    "name": "babesource",
+    "icon": "https://babesource.com/templates/babesource_new/images/favicon/android-icon-192x192.png",
+
+    "query": {
+      "recent": "newest/",
+      "top rated": "top-rated/",
+      "most viewed": "most-viewed/"
     }
   }
 ]
