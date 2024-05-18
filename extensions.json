@@ -33,25 +33,6 @@
     }
   },
   {
-    "url": "https://jav.guru/",
-    "searchUrl": "https://jav.guru/?s={search}",
-    "type": "1",
-    "getType": "1",
-    "decodeType": "1",
-    "name": "javguru",
-    "icon": "https://cdn.javsts.com/wp-content/uploads/2018/12/logofinal6.png",
-    "NSFW": "1",
-    "isPreview": "0",
-    "isEmbed": "1",
-    "pageType": "page/",
-    "query": {
-      "rescent": "",
-      "english sub": "category/english-subbed/",
-      "4k": "category/4k/",
-      "upcoming": "category/most-watched-rank/"
-    }
-  },
-  {
     "url": "https://www.freeomovie.to/",
     "searchUrl": "https://www.freeomovie.to/page/{page}?s={search}",
     "type": "1",
@@ -110,7 +91,6 @@
       "pictures": "pictures/{page}/"
     }
   },
-  
 
   {
     "url": "https://kompoz2.com/",
@@ -308,7 +288,7 @@
       "webcam": "category/webcam/page/{page}/"
     }
   },
-  
+
   {
     "url": "https://x-pictures.io/aiporn/gallery",
     "searchUrl": "https://x-pictures.io/aiporn/gallery?query={search}",
@@ -470,5 +450,4 @@
       "recent": ""
     }
   }
- 
 ]
