@@ -2,7 +2,7 @@
   {
     "url": "https://spankbang.party/",
     "type": "1",
-    "searchUrl": "https://spankbang.party/s/{search}/{page}?{filter}",
+    "searchUrl": "https://spankbang.party/s/{search}/{page}?{filter}/",
     "getType": "1",
     "decodeType": "1",
     "query": {
@@ -292,7 +292,7 @@
   {
     "url": "https://x-pictures.io/aiporn/gallery",
     "searchUrl": "https://x-pictures.io/aiporn/gallery?query={search}",
-    "type": "1",
+    "type": "3",
     "decodeType": "1",
     "NSFW": "1",
     "getType": "1",
