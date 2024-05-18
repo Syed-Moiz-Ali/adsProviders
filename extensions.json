@@ -418,7 +418,8 @@
     "icon": "https://cdn.pmatehunter.com/wp-content/themes/masonry/images/favicons/apple-touch-icon.png",
     "query": {
       "pics": "updates/sort/filter/ord/0/content/pix/quality/0/tags/0/",
-      "trending": "updates/",
+      "archive": "archive/page/{page}",
+      "trending": "updates/mpage/{page}",
       "newest": "updates/sort/newest/",
       "popular": "updates/sort/popular/"
     }
